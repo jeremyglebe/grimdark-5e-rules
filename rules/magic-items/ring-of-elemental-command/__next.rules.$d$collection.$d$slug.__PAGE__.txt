@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Tbee,<p><em>Ring, Legendary (Requires Attunement)</em></p>
+<p>Each <em>Ring of Elemental Command</em> is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane. For example, a <em>Ring of Elemental Command</em> (air) is linked to the Elemental Plane of Air.</p>
+<p>Every <em>Ring of Elemental Command</em> has the following two properties:</p>
+<p><strong>Elemental Bane.</strong> While wearing the ring, you have Advantage on attack rolls against Elementals and they have Disadvantage on attack rolls against you.</p>
+<p><strong>Elemental Compulsion.</strong> While wearing the ring, you can take a Magic action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the Charmed condition until the start your next turn, and you determine what it does with its move and action on its next turn.</p>
+<p><em>Elemental Focus.</em> While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:</p>
+<p><strong>Air.</strong> You know Auran, you have Resistance to Lightning damage, and you have a Fly Speed equal to your Speed and can hover.</p>
+<p><strong>Earth.</strong> You know Terran, and you have Resistance to Acid damage. Terrain composed of rubble, rocks, or dirt isn't Difficult Terrain for you. In addition, you can move through solid earth or rock as if those areas were Difficult Terrain without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.</p>
+<p><strong>Fire.</strong> You know Ignan, and you have Immunity to Fire damage.</p>
+<p><strong>Water.</strong> You know Aquan, you gain a Swim Speed of 60 feet, and you can breathe underwater.</p>
+<p><em>Spellcasting.</em> The ring has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While wearing the ring, you can cast a spell from it. Choose the spell from the list of available spells based on the Elemental Plane the ring is linked to, as shown in the following table. The table indicates how many charges you must expend to cast the spell, which has a save DC of 18.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Plane</th>
+      <th>Spells (Charges)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Air</td>
+      <td>*Chain Lightning* (3 charges), *Feather Fall* (0 charges), *Gust of Wind* (2 charges), *Wind Wall* (1 charge)</td>
+    </tr>
+    <tr>
+      <td>Earth</td>
+      <td>*Earthquake* (5 charges), *Stone Shape* (2 charges), *Stoneskin* (3 charges), *Wall of Stone* (3 charges)</td>
+    </tr>
+    <tr>
+      <td>Fire</td>
+      <td>*Burning Hands* (1 charge), *Fireball* (2 charges), *Fire Storm* (4 charges), *Wall of Fire* (3 charges)</td>
+    </tr>
+    <tr>
+      <td>Water</td>
+      <td>*Create or Destroy Water* (1 charge), *Ice Storm* (2 charges), *Tsunami* (5 charges), *Wall of Ice* (3 charges), *Water Walk* (2 charges)</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/ring-of-djinni-summoning","children":"Ring of Djinni Summoning"}],["$","span",null,{"className":"current-rule","children":"Ring of Elemental Command"}],["$","$L2",null,{"href":"/rules/magic-items/ring-of-evasion","children":"Ring of Evasion"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Ring of Elemental Command"}],["$","p",null,{"className":"rule-deck","children":"Ring, Legendary Requires Attunement Each Ring of Elemental Command is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane. For example, a Ring of Elemental Command air is linked to th"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/ring-of-djinni-summoning","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Ring of Djinni Summoning"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/ring-of-evasion","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Ring of Evasion"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

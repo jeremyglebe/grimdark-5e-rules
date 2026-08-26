@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","magic-items","bag-of-beans",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","magic-items","d",null],{"children":[["slug","bag-of-beans","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DX1w7l3nAf5i8ZBgfa13x"}
+f:[]
+9:"$Wf"
+10:Tf21,<p><em>Wondrous Item, Rare</em></p>
+<p>This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a non-magical item when it no longer contains any beans.</p>
+<p>If you dump one or more beans out of the bag, they explode in a 10-foot-radius Sphere centered on them. All the dumped beans are destroyed in the explosion, and each creature in the Sphere, including you, makes a DC 15 Dexterity saving throw, taking 5d4 Force damage on a failed save or half as much damage on a successful one.</p>
+<p>If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean disappears as it produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table or determine it randomly.</p>
+<table>
+  <thead>
+    <tr>
+      <th>1d100</th>
+      <th>Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour.</td>
+    </tr>
+    <tr>
+      <td>02–10</td>
+      <td>A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes.</td>
+    </tr>
+    <tr>
+      <td>11–20</td>
+      <td>A Treant sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good.</td>
+    </tr>
+    <tr>
+      <td>21–30</td>
+      <td>An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.</td>
+    </tr>
+    <tr>
+      <td>31–40</td>
+      <td>A campfire with green flames springs forth and burns for 24 hours or until it is extinguished.</td>
+    </tr>
+    <tr>
+      <td>41–50</td>
+      <td>Three Shrieker Fungi sprout.</td>
+    </tr>
+    <tr>
+      <td>51–60</td>
+      <td>1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke.</td>
+    </tr>
+    <tr>
+      <td>61–70</td>
+      <td>A hungry Bulette burrows up and attacks.</td>
+    </tr>
+    <tr>
+      <td>71–80</td>
+      <td>A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.</td>
+    </tr>
+    <tr>
+      <td>81–90</td>
+      <td>A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion.</td>
+    </tr>
+    <tr>
+      <td>91–95</td>
+      <td>A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a Mummy, a Mummy Lord, or some other Undead of the GM's choice. Its sarcophagus contains treasure of the GM's choice.</td>
+    </tr>
+    <tr>
+      <td>96–00</td>
+      <td>A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or another plane of existence.</td>
+    </tr>
+  </tbody>
+</table>5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/arrow-catching-shield","children":"Arrow-Catching Shield"}],["$","span",null,{"className":"current-rule","children":"Bag of Beans"}],["$","$L2",null,{"href":"/rules/magic-items/bag-of-devouring","children":"Bag of Devouring"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Bag of Beans"}],["$","p",null,{"className":"rule-deck","children":"Wondrous Item, Rare This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a non-magical item when it no longer contains any beans. If you dump one "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/arrow-catching-shield","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Arrow-Catching Shield"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/bag-of-devouring","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Bag of Devouring"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Bag of Beans · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"Wondrous Item, Rare This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a non-magical item when it no longer contains any beans. If you dump one "}],["$","meta","2",{"property":"og:title","content":"Bag of Beans · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"Wondrous Item, Rare This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a non-magical item when it no longer contains any beans. If you dump one "}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Bag of Beans · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"Wondrous Item, Rare This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a non-magical item when it no longer contains any beans. If you dump one "}]]

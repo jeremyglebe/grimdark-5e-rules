@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+4:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T5a9,<p>The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.</p>
+<p><strong>Food, Drink, and Lodging</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Cost</th>
+      <th>Item</th>
+      <th>Cost</th>
+    </tr>
+    <tr>
+      <th>Inn Stay per Day</th>
+      <th></th>
+      <th>Meal</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ale (mug)</td>
+      <td>4 CP</td>
+      <td>Comfortable</td>
+      <td>8 SP</td>
+    </tr>
+    <tr>
+      <td>Bread (loaf)</td>
+      <td>2 CP</td>
+      <td>Wealthy</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Cheese (wedge)</td>
+      <td>1 SP</td>
+      <td>Aristocratic</td>
+      <td>4 GP</td>
+    </tr>
+    <tr>
+      <td>Squalid</td>
+      <td>7 CP</td>
+      <td>Squalid</td>
+      <td>1 CP</td>
+    </tr>
+    <tr>
+      <td>Poor</td>
+      <td>1 SP</td>
+      <td>Poor</td>
+      <td>2 CP</td>
+    </tr>
+    <tr>
+      <td>Modest</td>
+      <td>5 SP</td>
+      <td>Modest</td>
+      <td>1 SP</td>
+    </tr>
+    <tr>
+      <td>Comfortable</td>
+      <td>2 SP</td>
+      <td>Wine (bottle)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wealthy</td>
+      <td>3 SP</td>
+      <td>Common</td>
+      <td>2 SP</td>
+    </tr>
+    <tr>
+      <td>Aristocratic</td>
+      <td>6 SP</td>
+      <td>Fine</td>
+      <td>10 GP</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Equipment"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/equipment/lifestyle-expenses","children":"Lifestyle Expenses"}],["$","span",null,{"className":"current-rule","children":"Food, Drink, and Lodging"}],["$","$L2",null,{"href":"/rules/equipment/hirelings","children":"Hirelings"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Equipment"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Equipment"}],["$","h1",null,{"children":"Food, Drink, and Lodging"}],["$","p",null,{"className":"rule-deck","children":"The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses. Food, Drink, and Lodging Item Cost Item Cost Inn Stay per Day Mea"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/equipment/lifestyle-expenses","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Lifestyle Expenses"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/equipment/hirelings","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Hirelings"," →"]}]]}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+6:null

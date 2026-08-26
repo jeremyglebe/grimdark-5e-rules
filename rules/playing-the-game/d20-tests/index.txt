@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","playing-the-game","d20-tests",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","playing-the-game","d",null],{"children":[["slug","d20-tests","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DX1w7l3nAf5i8ZBgfa13x"}
+f:[]
+9:"$Wf"
+10:T2f1d,<p>When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow these steps:</p>
+<p><strong>4: Roll 1d20.</strong> You always want to roll high. If the roll has Advantage or Disadvantage (described later in "Playing the Game"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.</p>
+<p><strong>5: Add Modifiers.</strong> Add these modifiers to the number rolled on the d20:</p>
+<ul>
+<li><strong>The Relevant Ability Modifier.</strong> "Playing the Game" and "Rules Glossary" explain which ability modifiers to use for various D20 Tests.</li>
+<li><strong>Your Proficiency Bonus If Relevant.</strong> Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See "Proficiency" later in "Playing the Game."</li>
+<li><strong>Circumstantial Bonuses and Penalties.</strong> A class feature, a spell, or another rule might give a bonus or penalty to the die roll.</li>
+</ul>
+<p><strong>6: Compare the Total to a Target Number.</strong> If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Game Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block (see "Rules Glossary").</p>
+<h3>Ability Checks</h3>
+<p>An ability check represents a creature using talent and training to try to overcome a challenge, such as forcing open a stuck door, picking a lock, entertaining a crowd, or deciphering a cipher. The GM and the rules often call for an ability check when a creature attempts something other than an attack that has a chance of meaningful failure. When the outcome is uncertain and narratively interesting, the dice determine the result.</p>
+<h4>Ability Modifier</h4>
+<p>An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check's use.</p>
+<p><strong>Ability Check Examples</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Make a Check To …</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Strength</td>
+      <td>Lift, push, pull, or break something</td>
+    </tr>
+    <tr>
+      <td>Dexterity</td>
+      <td>Move nimbly, quickly, or quietly</td>
+    </tr>
+    <tr>
+      <td>Constitution</td>
+      <td>Push your body beyond normal limits</td>
+    </tr>
+    <tr>
+      <td>Intelligence</td>
+      <td>Reason or remember</td>
+    </tr>
+    <tr>
+      <td>Wisdom</td>
+      <td>Notice things in the environment or in creatures' behavior</td>
+    </tr>
+    <tr>
+      <td>Charisma</td>
+      <td>Influence, entertain, or deceive</td>
+    </tr>
+  </tbody>
+</table><h4>Proficiency Bonus</h4>
+<p>Add your Proficiency Bonus to an ability check when the GM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength (Acrobatics or Athletics) check, you can add your Proficiency Bonus to the check if you have proficiency in the Acrobatics or Athletics skill. See "Proficiency" later in "Playing the Game" for more information about skill and tool proficiencies.</p>
+<h4>Difficulty Class</h4>
+<p>The Difficulty Class of an ability check represents the task's difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the GM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.</p>
+<p><strong>Typical Difficulty Classes</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Task Difficulty</th>
+      <th>DC</th>
+      <th>Task Difficulty</th>
+      <th>DC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Very easy</td>
+      <td>5</td>
+      <td>Very hard</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>Easy</td>
+      <td>10</td>
+      <td>Nearly impossible</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>15</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hard</td>
+      <td>20</td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table><h3>Saving Throws</h3>
+<p>A saving throw—also called a save—represents an attempt to evade or resist a threat, such as a fiery explosion, a blast of poisonous gas, or a spell trying to invade your mind. You don't normally choose to make a save; you must make one because your character or a monster (if you're the GM) is at risk. A save's result is detailed in the effect that caused it.</p>
+<p>If you don't want to resist the effect, you can choose to fail the save without rolling.</p>
+<h4>Ability Modifier</h4>
+<p>Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.</p>
+<p><strong>Saving Throw Examples</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Make a Save To …</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Strength</td>
+      <td>Physically resist direct force</td>
+    </tr>
+    <tr>
+      <td>Dexterity</td>
+      <td>Dodge out of harm's way</td>
+    </tr>
+    <tr>
+      <td>Constitution</td>
+      <td>Endure a toxic hazard</td>
+    </tr>
+    <tr>
+      <td>Intelligence</td>
+      <td>Recognize an illusion as fake</td>
+    </tr>
+    <tr>
+      <td>Wisdom</td>
+      <td>Resist a mental assault</td>
+    </tr>
+    <tr>
+      <td>Charisma</td>
+      <td>Assert your identity</td>
+    </tr>
+  </tbody>
+</table><h4>Proficiency Bonus</h4>
+<p>You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save. See "Proficiency" later in "Playing the Game."</p>
+<h4>Difficulty Class</h4>
+<p>The Difficulty Class for a saving throw is determined by the effect that causes it or by the GM. For example, if a spell forces you to make a save, the DC is determined by the caster's spellcasting ability and Proficiency Bonus. Monster abilities that call for saves specify the DC.</p>
+<h3>Attack Rolls</h3>
+<p>An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target's Armor Class. Attack rolls usually occur in battle, described in "Combat" later in "Playing the Game," but the GM might also ask for an attack roll in other situations, such as an archery competition.</p>
+<h4>Ability Modifier</h4>
+<p>The Attack Roll Abilities table shows which ability modifier to use for different types of attack rolls.</p>
+<p><strong>Attack Roll Abilities</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Attack Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Strength</td>
+      <td>Melee attack with a weapon or an Unarmed Strike (see Rules Glossary)</td>
+    </tr>
+    <tr>
+      <td>Dexterity</td>
+      <td>Ranged attack with a weapon</td>
+    </tr>
+    <tr>
+      <td>Varies</td>
+      <td>Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in Spells)</td>
+    </tr>
+  </tbody>
+</table><p>Some features let you use different ability modifiers from those listed. For example, the Finesse property (see "Equipment") lets you use Strength or Dexterity with a weapon that has that property.</p>
+<h4>Proficiency Bonus</h4>
+<p>You add your Proficiency Bonus to your attack roll when you attack using a weapon you have proficiency with, as well as when you attack with a spell. See "Proficiency" later in "Playing the Game" for more information about weapon proficiencies.</p>
+<h4>Armor Class</h4>
+<p>A creature's Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see "Character Creation"), whereas the AC of a monster appears in its stat block.</p>
+<p><em>Calculating AC.</em> All creatures start with the same base AC calculation:</p>
+<p><strong>Base AC</strong> = 10 + the creature's Dexterity modifier</p>
+<p>A creature's AC can then be modified by armor, magic items, spells, and more.</p>
+<p><em>Only One Base AC.</em> Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.</p>
+<h4>Rolling 20 or 1</h4>
+<p>If you roll a 20 on the d20 (called a "natural 20") for an attack roll, the attack hits regardless of any modifiers or the target's AC. This is called a Critical Hit (see "Combat" later in "Playing the Game").</p>
+<p>If you roll a 1 on the d20 (a "natural 1") for an attack roll, the attack misses regardless of any modifiers or the target's AC.</p>
+<h3>Advantage/Disadvantage</h3>
+<p>Sometimes a D20 Test is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.</p>
+<p>You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The GM can also decide that circumstances grant Advantage or impose Disadvantage.</p>
+<h4>Roll Two D20s</h4>
+<p>When a roll has either Advantage or Disadvantage, roll a second d20 when you make the roll. Use the higher of the two rolls if you have Advantage, and use the lower roll if you have Disadvantage. For example, if you have Disadvantage and roll an 18 and a 3, use the 3. If you instead have Advantage and roll those numbers, use the 18.</p>
+<h4>They Don't Stack</h4>
+<p>If multiple situations affect a roll and they all grant Advantage on it, you still roll only two d20s. Similarly, if multiple situations impose Disadvantage on a roll, you roll only two d20s.</p>
+<p>If circumstances cause a roll to have both Advantage and Disadvantage, the roll has neither of them, and you roll one d20. This is true even if multiple circumstances impose Disadvantage and only one grants Advantage or vice versa. In such a situation, you have neither Advantage nor Disadvantage.</p>
+<h4>Interactions with Rerolls</h4>
+<p>When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.</p>
+<p>For example, if you have Heroic Inspiration (see the sidebar below) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.</p>
+<blockquote>
+<p><strong>Heroic Inspiration</strong></p>
+<p>Sometimes the GM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.</p>
+<p><em>Only One at a Time.</em> You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.</p>
+<p><em>Gaining Heroic Inspiration.</em> Your GM can give you Heroic Inspiration for a variety of reasons. Typically, GMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.</p>
+<p>Other rules might allow your character to gain Heroic Inspiration independent of the GM's decision. For example, Human characters start each day with Heroic Inspiration.</p>
+</blockquote>
+5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Playing the Game"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/playing-the-game/the-six-abilities","children":"The Six Abilities"}],["$","span",null,{"className":"current-rule","children":"D20 Tests"}],["$","$L2",null,{"href":"/rules/playing-the-game/proficiency","children":"Proficiency"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Playing the Game"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Playing the Game"}],["$","h1",null,{"children":"D20 Tests"}],["$","p",null,{"className":"rule-deck","children":"When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow the"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/playing-the-game/the-six-abilities","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","The Six Abilities"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/playing-the-game/proficiency","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Proficiency"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"D20 Tests · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow the"}],["$","meta","2",{"property":"og:title","content":"D20 Tests · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow the"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"D20 Tests · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called D20 Tests, and they come in three kinds: ability checks, saving throws, and attack rolls. They follow the"}]]

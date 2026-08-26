@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T765,<p><em>Large Dragon (Chromatic), Lawful Evil</em></p>
+<p><strong>AC</strong> 18 <strong>Initiative</strong> +4 (14) <br />
+<strong>HP</strong> 152 (16d10 + 64) <br />
+<strong>Speed</strong> 40 ft., Burrow 20 ft., Fly 80 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>21</td>
+      <td>+5</td>
+      <td>+5</td>
+      <td><strong>DEX</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+4</td>
+      <td><strong>CON</strong></td>
+      <td>19</td>
+      <td>+4</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>WIS</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+5</td>
+      <td><strong>CHA</strong></td>
+      <td>17</td>
+      <td>+3</td>
+      <td>+3</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Perception +9, Stealth +4<br />
+<strong>Immunities</strong> Lightning<br />
+<strong>Senses</strong> Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19<br />
+<strong>Languages</strong> Common, Draconic<br />
+<strong>CR</strong> 9 (XP 5,000; PB +4)</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The dragon makes three Rend attacks.</p>
+<p><strong><em>Rend.</em></strong> <em>Melee Attack Roll:</em> +9, reach 10 ft. <em>Hit:</em> 12 (2d6 + 5) Slashing damage plus 5 (1d10) Lightning damage.</p>
+<p><strong><em>Lightning Breath (Recharge 5–6).</em></strong> <em>Dexterity Saving Throw:</em> DC 16, each creature in a 60-foot-long, 5-foot-wide Line. <em>Failure:</em> 55 (10d10) Lightning damage. <em>Success:</em> Half damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/blue-dragon-wyrmling","children":"Blue Dragon Wyrmling"}],["$","span",null,{"className":"current-rule","children":"Young Blue Dragon"}],["$","$L2",null,{"href":"/rules/monsters/adult-blue-dragon","children":"Adult Blue Dragon"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Young Blue Dragon"}],["$","p",null,{"className":"rule-deck","children":"Large Dragon Chromatic , Lawful Evil AC 18 Initiative +4 14 HP 152 16d10 + 64 Speed 40 ft., Burrow 20 ft., Fly 80 ft. MOD SAVE MOD SAVE MOD SAVE STR 21 +5 +5 DEX 10 +0 +4 CON 19 +4 +4 INT 14 +2 +2 WIS 13 +1 +5 CHA 17 +3 +3 Skills "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/blue-dragon-wyrmling","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Blue Dragon Wyrmling"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/adult-blue-dragon","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Adult Blue Dragon"," →"]}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

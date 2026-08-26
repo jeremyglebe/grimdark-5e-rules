@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+4:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T666,<p><em>Large Celestial, Neutral Good</em></p>
+<p><strong>AC</strong> 13 <strong>Initiative</strong> +3 (13) <br />
+<strong>HP</strong> 26 (4d10 + 4) <br />
+<strong>Speed</strong> 10 ft., Fly 80 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>16</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td><strong>DEX</strong></td>
+      <td>17</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td><strong>CON</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>8</td>
+      <td>−1</td>
+      <td>−1</td>
+      <td><strong>WIS</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>CHA</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+0</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Perception +6<br />
+<strong>Resistances</strong> Necrotic, Radiant<br />
+<strong>Senses</strong> Passive Perception 16<br />
+<strong>Languages</strong> Celestial; understands Common and Primordial (Auran) but can't speak them<br />
+<strong>CR</strong> 1 (XP 200; PB +2)</p>
+<h3>Actions</h3>
+<hr /><p><strong><em>Multiattack.</em></strong> The eagle makes two Rend attacks.</p>
+<p><strong><em>Rend.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. <em>Hit:</em> 5 (1d4 + 3) Slashing damage plus 3 (1d6) Radiant damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Animals"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/animals/giant-crocodile","children":"Giant Crocodile"}],["$","span",null,{"className":"current-rule","children":"Giant Eagle"}],["$","$L2",null,{"href":"/rules/animals/giant-elk","children":"Giant Elk"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Animals"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Animals"}],["$","h1",null,{"children":"Giant Eagle"}],["$","p",null,{"className":"rule-deck","children":"Large Celestial, Neutral Good AC 13 Initiative +3 13 HP 26 4d10 + 4 Speed 10 ft., Fly 80 ft. MOD SAVE MOD SAVE MOD SAVE STR 16 +3 +3 DEX 17 +3 +3 CON 13 +1 +1 INT 8 −1 −1 WIS 14 +2 +2 CHA 10 +0 +0 Skills Perception +6 Resistances "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/animals/giant-crocodile","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Giant Crocodile"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/animals/giant-elk","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Giant Elk"," →"]}]]}]]}]]}]]}],null,["$","$L4",null,{"children":"$L5"}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+5:["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]
+7:null

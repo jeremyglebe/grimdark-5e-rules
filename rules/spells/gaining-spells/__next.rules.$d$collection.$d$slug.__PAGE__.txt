@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T77c,<p>Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a <em>Spell Scroll</em>. Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.</p>
+<h3>Preparing Spells</h3>
+<p>If you have a list of level 1+ spells you prepare, your spellcasting feature specifies when you can change the list and the number of spells you can change, as summarized in the Spell Preparation by Class table.</p>
+<p><strong>Spell Preparation by Class</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Change When You…</th>
+      <th>Number of Spells</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bard</td>
+      <td>Gain a level</td>
+      <td>One</td>
+    </tr>
+    <tr>
+      <td>Cleric</td>
+      <td>Finish a Long Rest</td>
+      <td>Any</td>
+    </tr>
+    <tr>
+      <td>Druid</td>
+      <td>Finish a Long Rest</td>
+      <td>Any</td>
+    </tr>
+    <tr>
+      <td>Paladin</td>
+      <td>Finish a Long Rest</td>
+      <td>One</td>
+    </tr>
+    <tr>
+      <td>Ranger</td>
+      <td>Finish a Long Rest</td>
+      <td>One</td>
+    </tr>
+    <tr>
+      <td>Sorcerer</td>
+      <td>Gain a level</td>
+      <td>One</td>
+    </tr>
+    <tr>
+      <td>Warlock</td>
+      <td>Gain a level</td>
+      <td>One</td>
+    </tr>
+    <tr>
+      <td>Wizard</td>
+      <td>Finish a Long Rest</td>
+      <td>Any</td>
+    </tr>
+  </tbody>
+</table><p>Most spellcasting monsters don't change their lists of prepared spells, but the GM is free to alter them.</p>
+<h3>Always-Prepared Spells</h3>
+<p>Certain features might give you a spell that you always have prepared. If you also have a list of prepared spells that you can change, a spell that you always have prepared doesn't count against the number of spells on that list.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Spells"}],["$","nav",null,{"aria-label":"Nearby rules","children":["$undefined",["$","span",null,{"className":"current-rule","children":"Gaining Spells"}],["$","$L2",null,{"href":"/rules/spells/casting-spells","children":"Casting Spells"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Spells"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Spells"}],["$","h1",null,{"children":"Gaining Spells"}],["$","p",null,{"className":"rule-deck","children":"Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a Spell Scroll . Your features specify which spells you have access to, if any; whether you always h"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","span",null,{}]
+5:["$","$L2",null,{"className":"next","href":"/rules/spells/casting-spells","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Casting Spells"," →"]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

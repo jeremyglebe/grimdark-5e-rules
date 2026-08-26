@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T8f1,<p><em>Wondrous Item, Legendary</em></p>
+<p>This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.</p>
+<p>The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a <em>Sphere of Annihilation</em>, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes 8d10 Force damage.</p>
+<p><em>Controlling the Sphere.</em> A <em>Sphere of Annihilation</em> is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a Magic action to make a DC 25 Intelligence (Arcana) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature's control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line.</p>
+<p>While in control of the sphere, you can take a Bonus Action to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking 8d10 Force damage. A creature reduced to 0 Hit Points by this damage is obliterated, leaving its possessions behind but no other physical remains.</p>
+<p><em>Sphere Interactions.</em> If the sphere comes into contact with a planar portal (such as that created by the <em>Gate</em> spell) or an extradimensional space (such as that within a <em>Portable Hole</em>), the GM determines randomly what happens using the following table.</p>
+<table>
+  <thead>
+    <tr>
+      <th>1d100</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01–50</td>
+      <td>The sphere is destroyed.</td>
+    </tr>
+    <tr>
+      <td>51–85</td>
+      <td>The sphere moves through the portal or into the extradimensional space.</td>
+    </tr>
+    <tr>
+      <td>86–00</td>
+      <td>A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence.</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/spell-scroll","children":"Spell Scroll"}],["$","span",null,{"className":"current-rule","children":"Sphere of Annihilation"}],["$","$L2",null,{"href":"/rules/magic-items/staff-of-charming","children":"Staff of Charming"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Sphere of Annihilation"}],["$","p",null,{"className":"rule-deck","children":"Wondrous Item, Legendary This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it. The sphere obliterates all matter it passes through and all matter that pa"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/spell-scroll","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Spell Scroll"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/staff-of-charming","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Staff of Charming"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

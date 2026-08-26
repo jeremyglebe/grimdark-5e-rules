@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T11aa,<p>The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details:</p>
+<p><strong>Category.</strong> Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).</p>
+<p><strong>Armor Class (AC).</strong> The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.</p>
+<p><strong>Strength.</strong> If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.</p>
+<p><strong>Stealth.</strong> If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has Disadvantage on Dexterity (Stealth) checks.</p>
+<p><strong>Armor</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Armor</th>
+      <th>Armor Class (AC)</th>
+      <th>Strength</th>
+      <th>Stealth</th>
+      <th>Weight</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="6"><em>Light Armor (1 Minute to Don or Doff)</em></th>
+    </tr>
+    <tr>
+      <td>Padded Armor</td>
+      <td>11 + Dex modifier</td>
+      <td>—</td>
+      <td>Disadvantage</td>
+      <td>8 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Leather Armor</td>
+      <td>11 + Dex modifier</td>
+      <td>—</td>
+      <td>—</td>
+      <td>10 lb.</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Studded Leather Armor</td>
+      <td>12 + Dex modifier</td>
+      <td>—</td>
+      <td>—</td>
+      <td>13 lb.</td>
+      <td>45 GP</td>
+    </tr>
+    <tr>
+      <th colspan="6"><em>Medium Armor (5 Minutes to Don and 1 Minute to Doff)</em></th>
+    </tr>
+    <tr>
+      <td>Hide Armor</td>
+      <td>12 + Dex modifier (max 2)</td>
+      <td>—</td>
+      <td>—</td>
+      <td>12 lb.</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Chain Shirt</td>
+      <td>13 + Dex modifier (max 2)</td>
+      <td>—</td>
+      <td>—</td>
+      <td>20 lb.</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Scale Mail</td>
+      <td>14 + Dex modifier (max 2)</td>
+      <td>—</td>
+      <td>Disadvantage</td>
+      <td>45 lb.</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Breastplate</td>
+      <td>14 + Dex modifier (max 2)</td>
+      <td>—</td>
+      <td>—</td>
+      <td>20 lb.</td>
+      <td>400 GP</td>
+    </tr>
+    <tr>
+      <td>Half Plate Armor</td>
+      <td>15 + Dex modifier (max 2)</td>
+      <td>—</td>
+      <td>Disadvantage</td>
+      <td>40 lb.</td>
+      <td>750 GP</td>
+    </tr>
+    <tr>
+      <th colspan="6"><em>Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)</em></th>
+    </tr>
+    <tr>
+      <td>Ring Mail</td>
+      <td>14</td>
+      <td>—</td>
+      <td>Disadvantage</td>
+      <td>40 lb.</td>
+      <td>30 GP</td>
+    </tr>
+    <tr>
+      <td>Chain Mail</td>
+      <td>16</td>
+      <td>Str 13</td>
+      <td>Disadvantage</td>
+      <td>55 lb.</td>
+      <td>75 GP</td>
+    </tr>
+    <tr>
+      <td>Splint Armor</td>
+      <td>17</td>
+      <td>Str 15</td>
+      <td>Disadvantage</td>
+      <td>60 lb.</td>
+      <td>200 GP</td>
+    </tr>
+    <tr>
+      <td>Plate Armor</td>
+      <td>18</td>
+      <td>Str 15</td>
+      <td>Disadvantage</td>
+      <td>65 lb.</td>
+      <td>1,500 GP</td>
+    </tr>
+    <tr>
+      <th colspan="6"><em>Shield (Utilize Action to Don or Doff)</em></th>
+    </tr>
+    <tr>
+      <td>Shield</td>
+      <td>+2</td>
+      <td>—</td>
+      <td>—</td>
+      <td>6 lb.</td>
+      <td>10 GP</td>
+    </tr>
+  </tbody>
+</table><h3>Armor Training</h3>
+<p>Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character's class and other features determine the character's armor training. A monster has training with any armor in its stat block.</p>
+<p><strong>Light, Medium, or Heavy Armor.</strong> If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells.</p>
+<p><strong>Shield.</strong> You gain the Armor Class benefit of a Shield only if you have training with it.</p>
+<h3>One at a Time</h3>
+<p>A creature can wear only one suit of armor at a time and wield only one Shield at a time.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Equipment"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/equipment/weapons","children":"Weapons"}],["$","span",null,{"className":"current-rule","children":"Armor"}],["$","$L2",null,{"href":"/rules/equipment/tools","children":"Tools"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Equipment"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],["$","span",null,{"className":"rule-badge replaced","children":"Changed in Grimdark 5e"}],false]}],["$","p",null,{"className":"kicker","children":"Equipment"}],["$","h1",null,{"children":"Armor"}],["$","p",null,{"className":"rule-deck","children":"The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details: Category. Every type of armor falls into a category: Light, Medium, or Heavy. The category determines "}]]}],["$","section",null,{"className":"change-callout","aria-labelledby":"grimdark-replacements","children":[["$","p",null,{"className":"change-callout-label","children":"This 2024 rule changes in Grimdark 5e"}],["$","h2",null,{"id":"grimdark-replacements","children":"Use these rules at a Grimdark table"}],["$","div",null,{"className":"change-links","children":[["$","$L2","grimdark/armour-and-shields",{"href":"/rules/grimdark/armour-and-shields","children":[["$","span",null,{"children":[["$","strong",null,{"children":"Armour and Shields"}],["$","small",null,{"children":"Replaces: worn armour contributing to Armor Class in the ordinary way. Armour reduces incoming damage instead of making the wearer harder to hit. Dexterity is not included in Armour Negation; Dexterity belongs to Dodge. Armour Neg"}]]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}],["$","$L2","grimdark/damage-negation",{"href":"/rules/grimdark/damage-negation","children":[["$","span",null,{"children":[["$","strong",null,{"children":"Damage Negation"}],["$","small",null,{"children":"Replaces or modifies: Armor Class, parts of Resistance, and the ordinary damage application procedure. Damage Negation = applicable Toughness + Armour + Shield + situational modifiers When Tanking the Hit, also add the defender's "}]]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}],false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/equipment/weapons","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Weapons"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/equipment/tools","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Tools"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

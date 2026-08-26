@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","magic-items","magic-item-categories",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","magic-items","d",null],{"children":[["slug","magic-item-categories","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DX1w7l3nAf5i8ZBgfa13x"}
+f:[]
+9:"$Wf"
+10:T19f1,<p>Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table.</p>
+<p><strong>Magic Item Categories</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Armor</td>
+      <td>+1 Leather Armor, +1 Shield</td>
+    </tr>
+    <tr>
+      <td>Potions</td>
+      <td>Potion of Healing</td>
+    </tr>
+    <tr>
+      <td>Rings</td>
+      <td>Ring of Invisibility</td>
+    </tr>
+    <tr>
+      <td>Rods</td>
+      <td>Immovable Rod</td>
+    </tr>
+    <tr>
+      <td>Scrolls</td>
+      <td>Spell Scroll</td>
+    </tr>
+    <tr>
+      <td>Staffs</td>
+      <td>Staff of Striking</td>
+    </tr>
+    <tr>
+      <td>Wands</td>
+      <td>Wand of Fireballs</td>
+    </tr>
+    <tr>
+      <td>Weapons</td>
+      <td>+1 Ammunition, +1 Longsword</td>
+    </tr>
+    <tr>
+      <td>Wondrous Items</td>
+      <td>Bag of Holding, Boots of Elvenkind</td>
+    </tr>
+  </tbody>
+</table><h3>Armor</h3>
+<p>An item in the Armor category is typically a magical version of armor from "Equipment." Unless an armor's description notes otherwise, the armor must be worn for its magic to function.</p>
+<p>Some suits of magic armor specify the type of armor they are, such as Chain Mail or Plate Armor. If no type is specified, choose the type or determine it randomly.</p>
+<h3>Potions</h3>
+<p>An item in the Potion category might be a magical brew that must be imbibed or an oil that must be applied to a creature or an object. A typical potion consists of 1 ounce of liquid in a vial.</p>
+<p><em>Using a Potion.</em> Potions are consumable items. Drinking a potion or administering it to another creature requires a Bonus Action. Applying an oil might take longer as specified in its description. Once used, a potion takes effect immediately, and it is used up.</p>
+<p><em>Mixing Potions.</em> A character might drink one potion while still under the effects of another or pour several potions into a single container. The strange ingredients used in creating potions can result in unpredictable interactions.</p>
+<p>When a character mixes two potions together, roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.</p>
+<p><strong>Potion Miscibility</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d100</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius Sphere centered on itself. Each creature in that area takes 4d10 Force damage.</td>
+    </tr>
+    <tr>
+      <td>02–08</td>
+      <td>Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see Poison in Gameplay Toolbox).</td>
+    </tr>
+    <tr>
+      <td>09–15</td>
+      <td>Both potions lose their effects.</td>
+    </tr>
+    <tr>
+      <td>16–25</td>
+      <td>One potion loses its effect.</td>
+    </tr>
+    <tr>
+      <td>26–35</td>
+      <td>Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect.</td>
+    </tr>
+    <tr>
+      <td>36–90</td>
+      <td>Both potions work normally.</td>
+    </tr>
+    <tr>
+      <td>91–99</td>
+      <td>Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally.</td>
+    </tr>
+    <tr>
+      <td>00</td>
+      <td>Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a Potion of Healing might increase the drinker's Hit Point maximum by 2d4 + 2, or a Potion of Invisibility might give the drinker the Invisible condition indefinitely. At your discretion, a Dispel Magic spell or similar magic might end this lasting effect.</td>
+    </tr>
+  </tbody>
+</table><h3>Rings</h3>
+<p>For its magic to function, an item in the Ring category must be worn on a finger or a similar digit unless its description notes otherwise.</p>
+<h3>Rods</h3>
+<p>An item in the Rod category is a scepter usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.</p>
+<p>Unless its description notes otherwise, a rod can be used as an Arcane Focus.</p>
+<h3>Scrolls</h3>
+<p>An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the <em>Spell Scroll</em>, a spell stored in written form.</p>
+<p><em>Using a Scroll</em>. Scrolls are consumable items. Unleashing the magic in a scroll requires the user to read the scroll. When its magic has been invoked, the scroll can't be used again. Its words fade, or it crumbles into dust.</p>
+<p>Any creature that can understand a written language can read a scroll and attempt to activate it unless its description notes otherwise.</p>
+<h3>Staffs</h3>
+<p>Items in the Staff category vary widely in appearance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of polished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.</p>
+<p>Unless its description notes otherwise, a staff can be used as a nonmagical Quarterstaff and an Arcane Focus.</p>
+<h3>Wands</h3>
+<p>An item in the Wand category is typically 12 to 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.</p>
+<p>Unless its description notes otherwise, a wand can be used as an Arcane Focus.</p>
+<h3>Weapons</h3>
+<p>A magic weapon is typically a magical version of a weapon from "Equipment." Some magic weapons specify the type of weapon they are in their descriptions, such as a Longsword or Longbow. If no weapon type is specified, you may choose the type or determine it randomly.</p>
+<p><em>Ammunition</em>. If a magic weapon has the Ammunition property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.</p>
+<h3>Wondrous Items</h3>
+<p>Wondrous Items include wearable items such as boots, belts, capes, amulets, brooches, and circlets. Bags, carpets, figurines, horns, musical instruments, and more also fall into this category.</p>
+5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":["$undefined",["$","span",null,{"className":"current-rule","children":"Magic Item Categories"}],["$","$L2",null,{"href":"/rules/magic-items/magic-item-rules","children":"Magic Item Rules"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Magic Item Categories"}],["$","p",null,{"className":"rule-deck","children":"Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table. Magic Item Categories Category Examples Armor +1 Leather Arm"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","span",null,{}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/magic-item-rules","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Magic Item Rules"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Magic Item Categories · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table. Magic Item Categories Category Examples Armor +1 Leather Arm"}],["$","meta","2",{"property":"og:title","content":"Magic Item Categories · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table. Magic Item Categories Category Examples Armor +1 Leather Arm"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Magic Item Categories · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"Every magic item belongs to a category. The Magic Item Categories table lists the nine categories and provides examples. Rules for the categories appear after the table. Magic Item Categories Category Examples Armor +1 Leather Arm"}]]

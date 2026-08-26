@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T818,<p><em>Tiny Construct, Neutral</em></p>
+<p><strong>AC</strong> 13 <strong>Initiative</strong> +2 (12) <br />
+<strong>HP</strong> 4 (1d4 + 2) <br />
+<strong>Speed</strong> 20 ft., Fly 40 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>4</td>
+      <td>−3</td>
+      <td>−3</td>
+      <td><strong>DEX</strong></td>
+      <td>15</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>CON</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td><strong>WIS</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td><strong>CHA</strong></td>
+      <td>7</td>
+      <td>−2</td>
+      <td>+0</td>
+    </tr>
+  </tbody>
+</table><p><strong>Immunities</strong> Poison; Charmed, Poisoned<br />
+<strong>Senses</strong> Darkvision 60 ft.; Passive Perception 10<br />
+<strong>Languages</strong> Understands Common plus one other language but can't speak<br />
+<strong>CR</strong> 0 (XP 10; PB +2)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Telepathic Bond.</em></strong> While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 1 Piercing damage, and the target is subjected to the following effect. <em>Constitution Saving Throw:</em> DC 12. <em>Failure:</em> The target has the Poisoned condition until the end of the homunculus's next turn. <em>Failure by 5 or More:</em> The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/homunculus","children":"Homunculus"}],["$","span",null,{"className":"current-rule","children":"Homunculus"}],["$","$L2",null,{"href":"/rules/monsters/horned-devil","children":"Horned Devil"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Homunculus"}],["$","p",null,{"className":"rule-deck","children":"Tiny Construct, Neutral AC 13 Initiative +2 12 HP 4 1d4 + 2 Speed 20 ft., Fly 40 ft. MOD SAVE MOD SAVE MOD SAVE STR 4 −3 −3 DEX 15 +2 +2 CON 14 +2 +2 INT 10 +0 +0 WIS 10 +0 +2 CHA 7 −2 +0 Immunities Poison; Charmed, Poisoned Sense"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":"$L4"}],"$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/homunculus","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Homunculus"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/horned-devil","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Horned Devil"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

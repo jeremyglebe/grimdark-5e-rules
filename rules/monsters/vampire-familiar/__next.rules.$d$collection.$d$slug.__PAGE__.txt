@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T97c,<p><em>Medium or Small Humanoid, Neutral Evil</em></p>
+<p><strong>AC</strong> 15 <strong>Initiative</strong> +5 (15) <br />
+<strong>HP</strong> 65 (10d8 + 20) <br /><br /><strong>Speed</strong> 30 ft., Climb 30 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>17</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td><strong>DEX</strong></td>
+      <td>16</td>
+      <td>+3</td>
+      <td>+5</td>
+      <td><strong>CON</strong></td>
+      <td>15</td>
+      <td>+2</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td><strong>WIS</strong></td>
+      <td>10</td>
+      <td>+0</td>
+      <td>+2</td>
+      <td><strong>CHA</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Perception +4, Persuasion +4, Stealth +7 <br />
+<strong>Resistances</strong> Necrotic <br />
+<strong>Immunities</strong> Charmed (except from its vampire master) <br />
+<strong>Gear</strong> Daggers (10) <br />
+<strong>Senses</strong> Darkvision 60 ft.; Passive Perception 14 <br />
+<strong>Languages</strong> Common plus one other language <br />
+<strong>CR</strong> 3 (XP 700; PB +2)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Vampiric Connection.</em></strong> While the familiar and its vampire master are on the same plane of existence, the vampire can communicate with the familiar telepathically, and the vampire can perceive through the familiar's senses.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The familiar makes two Umbral Dagger attacks.</p>
+<p><strong><em>Umbral Dagger.</em></strong> <em>Melee or Ranged Attack Roll:</em> +5, reach 5 ft. or range 20/60 ft. <em>Hit:</em> 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is reduced to 0 Hit Points by this attack, the target becomes Stable but has the Poisoned condition for 1 hour. While it has the Poisoned condition, the target has the Paralyzed condition.</p>
+<h4>Bonus Actions</h4>
+<hr /><p><strong><em>Deathless Agility.</em></strong> The familiar takes the Dash or Disengage action.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/vampires","children":"Vampires"}],["$","span",null,{"className":"current-rule","children":"Vampire Familiar"}],["$","$L2",null,{"href":"/rules/monsters/vampire-spawn","children":"Vampire Spawn"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Vampire Familiar"}],["$","p",null,{"className":"rule-deck","children":"Medium or Small Humanoid, Neutral Evil AC 15 Initiative +5 15 HP 65 10d8 + 20 Speed 30 ft., Climb 30 ft. MOD SAVE MOD SAVE MOD SAVE STR 17 +3 +3 DEX 16 +3 +5 CON 15 +2 +2 INT 10 +0 +0 WIS 10 +0 +2 CHA 14 +2 +2 Skills Perception +4"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/vampires","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Vampires"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/vampire-spawn","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Vampire Spawn"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

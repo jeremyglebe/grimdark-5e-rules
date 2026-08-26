@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Taa5,<p><em>Medium Monstrosity, Neutral Evil</em></p>
+<p><strong>AC</strong> 13 <strong>Initiative</strong> +2 (12) <br />
+<strong>HP</strong> 44 (8d8 + 8) <br />
+<strong>Speed</strong> 30 ft., Climb 30 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>DEX</strong></td>
+      <td>15</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>CON</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>7</td>
+      <td>−2</td>
+      <td>−2</td>
+      <td><strong>WIS</strong></td>
+      <td>12</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td><strong>CHA</strong></td>
+      <td>8</td>
+      <td>−1</td>
+      <td>−1</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Perception +3, Stealth +4, Survival +3<br />
+<strong>Senses</strong> Darkvision 60 ft.; Passive Perception 13<br />
+<strong>Languages</strong> None<br />
+<strong>CR</strong> 2 (XP 450; PB +2)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Spider Climb.</em></strong> The ettercap can climb difficult surfaces, including along ceilings, without needing to make an ability check.</p>
+<p><strong><em>Web Walker.</em></strong> The ettercap ignores movement restrictions caused by webs, and the ettercap knows the location of any other creature in contact with the same web.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The ettercap makes one Bite attack and one Claw attack.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage, and the target has the Poisoned condition until the start of the ettercap's next turn.</p>
+<p><strong><em>Claw.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 7 (2d4 + 2) Slashing damage.</p>
+<p><strong><em>Web Strand (Recharge 5–6).</em></strong> <em>Dexterity Saving Throw:</em> DC 12, one Large or smaller creature the ettercap can see within 30 feet. <em>Failure:</em> The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).</p>
+<h4>Bonus Actions</h4>
+<hr /><p><strong><em>Reel.</em></strong> The ettercap pulls one creature within 30 feet of itself that is Restrained by its Web Strand up to 25 feet straight toward itself.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/ettercap","children":"Ettercap"}],["$","span",null,{"className":"current-rule","children":"Ettercap"}],["$","$L2",null,{"href":"/rules/monsters/ettin","children":"Ettin"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Ettercap"}],["$","p",null,{"className":"rule-deck","children":"Medium Monstrosity, Neutral Evil AC 13 Initiative +2 12 HP 44 8d8 + 8 Speed 30 ft., Climb 30 ft. MOD SAVE MOD SAVE MOD SAVE STR 14 +2 +2 DEX 15 +2 +2 CON 13 +1 +1 INT 7 −2 −2 WIS 12 +1 +1 CHA 8 −1 −1 Skills Perception +3, Stealth "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/ettercap","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Ettercap"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/ettin","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Ettin"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

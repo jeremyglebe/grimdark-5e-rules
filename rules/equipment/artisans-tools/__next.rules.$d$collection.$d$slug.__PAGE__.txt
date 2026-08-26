@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T13ea,<p>Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.</p>
+<p><strong>Alchemist's Supplies (50 GP)</strong></p>
+<p><strong>Ability:</strong> Intelligence <strong>Weight:</strong> 8 lb.
+<strong>Utilize:</strong> Identify a substance (DC 15), or start a fire (DC 15)
+<strong>Craft:</strong> Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume</p>
+<p><strong>Brewer's Supplies (20 GP)</strong></p>
+<p><strong>Ability:</strong> Intelligence <strong>Weight:</strong> 9 lb.
+<strong>Utilize:</strong> Detect poisoned drink (DC 15), or identify alcohol (DC 10)
+<strong>Craft:</strong> Antitoxin</p>
+<p><strong>Calligrapher's Supplies (10 GP)</strong></p>
+<p><strong>Ability:</strong> Dexterity <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Write text with impressive flourishes that guard against forgery (DC 15)
+<strong>Craft:</strong> Ink, <em>Spell Scroll</em></p>
+<p><strong>Carpenter's Tools (8 GP)</strong></p>
+<p><strong>Ability:</strong> Strength <strong>Weight:</strong> 6 lb.
+<strong>Utilize:</strong> Seal or pry open a door or container (DC 20)
+<strong>Craft:</strong> Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch</p>
+<p><strong>Cartographer's Tools (15 GP)</strong></p>
+<p><strong>Ability:</strong> Wisdom <strong>Weight:</strong> 6 lb.
+<strong>Utilize:</strong> Draft a map of a small area (DC 15)
+<strong>Craft:</strong> Map</p>
+<p><strong>Cobbler's Tools (5 GP)</strong></p>
+<p><strong>Ability:</strong> Dexterity <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
+<strong>Craft:</strong> Climber's Kit</p>
+<p><strong>Cook's Utensils (1 GP)</strong></p>
+<p><strong>Ability:</strong> Wisdom <strong>Weight:</strong> 8 lb.
+<strong>Utilize:</strong> Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
+<strong>Craft:</strong> Rations</p>
+<p><strong>Glassblower's Tools (30 GP)</strong></p>
+<p><strong>Ability:</strong> Intelligence <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Discern what a glass object held in the past 24 hours (DC 15)
+<strong>Craft:</strong> Glass Bottle, Magnifying Glass, Spyglass, Vial</p>
+<p><strong>Jeweler's Tools (25 GP)</strong></p>
+<p><strong>Ability:</strong> Intelligence <strong>Weight:</strong> 2 lb.
+<strong>Utilize:</strong> Discern a gem's value (DC 15)
+<strong>Craft:</strong> Arcane Focus, Holy Symbol</p>
+<p><strong>Leatherworker's Tools (5 GP)</strong></p>
+<p><strong>Ability:</strong> Dexterity <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Add a design to a leather item (DC 10)
+<strong>Craft:</strong> Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin</p>
+<p><strong>Mason's Tools (10 GP)</strong></p>
+<p><strong>Ability:</strong> Strength <strong>Weight:</strong> 8 lb.
+<strong>Utilize:</strong> Chisel a symbol or hole in stone (DC 10)
+<strong>Craft:</strong> Block and Tackle</p>
+<p><strong>Painter's Supplies (10 GP)</strong></p>
+<p><strong>Ability:</strong> Wisdom <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Paint a recognizable image of something you've seen (DC 10)
+<strong>Craft:</strong> Druidic Focus, Holy Symbol</p>
+<p><strong>Potter's Tools (10 GP)</strong></p>
+<p><strong>Ability:</strong> Intelligence <strong>Weight:</strong> 3 lb.
+<strong>Utilize:</strong> Discern what a ceramic object held in the past 24 hours (DC 15)
+<strong>Craft:</strong> Jug, Lamp</p>
+<p><strong>Smith's Tools (20 GP)</strong></p>
+<p><strong>Ability:</strong> Strength <strong>Weight:</strong> 8 lb.
+<strong>Utilize:</strong> Pry open a door or container (DC 20)
+<strong>Craft:</strong> Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets</p>
+<p><strong>Tinker's Tools (50 GP)</strong>
+<strong>Ability:</strong> Dexterity <strong>Weight:</strong> 10 lb.
+<strong>Utilize:</strong> Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
+<strong>Craft:</strong> Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox</p>
+<p><strong>Weaver's Tools (1 GP)</strong>
+<strong>Ability:</strong> Dexterity <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
+<strong>Craft:</strong> Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes</p>
+<p><strong>Woodcarver's Tools (1 GP)</strong>
+<strong>Ability:</strong> Dexterity <strong>Weight:</strong> 5 lb.
+<strong>Utilize:</strong> Carve a pattern in wood (DC 10)
+<strong>Craft:</strong> Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Equipment"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/equipment/tools","children":"Tools"}],["$","span",null,{"className":"current-rule","children":"Artisan's Tools"}],["$","$L2",null,{"href":"/rules/equipment/other-tools","children":"Other Tools"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Equipment"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Equipment"}],["$","h1",null,{"children":"Artisan's Tools"}],["$","p",null,{"className":"rule-deck","children":"Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency. Alchemist's Supplies 50 GP Ability: Intelligence Weight: 8 lb. Utilize: Identify a substance DC 15 , or "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/equipment/tools","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Tools"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/equipment/other-tools","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Other Tools"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

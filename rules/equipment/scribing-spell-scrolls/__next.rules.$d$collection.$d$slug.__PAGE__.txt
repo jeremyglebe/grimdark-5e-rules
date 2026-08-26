@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T7bb,<p>A spellcaster can transfer a spell to a scroll and create a <em>Spell Scroll</em>, using the rules below.</p>
+<h3>Time and Cost</h3>
+<p>Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the Spell Scroll Costs table. For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn't be consecutive.</p>
+<h3>Prerequisites for the Scribe</h3>
+<p>To scribe a scroll, you must have proficiency in the Arcana skill or with Calligrapher's Supplies and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.</p>
+<h3>Cantrips</h3>
+<p>If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.</p>
+<p><strong>Spell Scroll Costs</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Spell Level</th>
+      <th>Time</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cantrip</td>
+      <td>1 day</td>
+      <td>15 GP</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1 day</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3 days</td>
+      <td>100 GP</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>5 days</td>
+      <td>150 GP</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>10 days</td>
+      <td>1,000 GP</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>25 days</td>
+      <td>1,500 GP</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>40 days</td>
+      <td>10,000 GP</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>50 days</td>
+      <td>12,500 GP</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>60 days</td>
+      <td>15,000 GP</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>120 days</td>
+      <td>50,000 GP</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Equipment"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/equipment/brewing-potions-of-healing","children":"Brewing Potions of Healing"}],["$","span",null,{"className":"current-rule","children":"Scribing Spell Scrolls"}],"$undefined"]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Equipment"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Equipment"}],["$","h1",null,{"children":"Scribing Spell Scrolls"}],["$","p",null,{"className":"rule-deck","children":"A spellcaster can transfer a spell to a scroll and create a Spell Scroll , using the rules below. Time and Cost Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the Spell Scroll Cost"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/equipment/brewing-potions-of-healing","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Brewing Potions of Healing"]}]]}],["$","span",null,{}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

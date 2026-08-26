@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T22fc,<p><em>Wondrous Item, Legendary</em></p>
+<p>Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Mysterious Deck table when randomly determining cards drawn from the deck.</p>
+<p>Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly. Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.</p>
+<p>Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the card reappears in the deck, making it possible to draw the same card twice. (Once the Fool or Jester has left the deck, reroll on the table if that card comes up again.)</p>
+<p><strong>Mysterious Deck</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d100 (13-Card Deck)</th>
+      <th>1d100 (22-Card Deck)</th>
+      <th>Card</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>—</td>
+      <td>01–05</td>
+      <td>Balance</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>06–10</td>
+      <td>Comet</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>11–14</td>
+      <td>Donjon</td>
+    </tr>
+    <tr>
+      <td>01–08</td>
+      <td>15–18</td>
+      <td>Euryale</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>19–23</td>
+      <td>Fates</td>
+    </tr>
+    <tr>
+      <td>09–16</td>
+      <td>24–27</td>
+      <td>Flames</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>28–31</td>
+      <td>Fool</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>32–36</td>
+      <td>Gem</td>
+    </tr>
+    <tr>
+      <td>17–24</td>
+      <td>37–41</td>
+      <td>Jester</td>
+    </tr>
+    <tr>
+      <td>25–32</td>
+      <td>42–46</td>
+      <td>Key</td>
+    </tr>
+    <tr>
+      <td>33–40</td>
+      <td>47–51</td>
+      <td>Knight</td>
+    </tr>
+    <tr>
+      <td>41–48</td>
+      <td>52–56</td>
+      <td>Moon</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>57–60</td>
+      <td>Puzzle</td>
+    </tr>
+    <tr>
+      <td>49–56</td>
+      <td>61–64</td>
+      <td>Rogue</td>
+    </tr>
+    <tr>
+      <td>57–64</td>
+      <td>65–68</td>
+      <td>Ruin</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>69–73</td>
+      <td>Sage</td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th>1d100 (13-Card Deck)</th>
+      <th>1d100 (22-Card Deck)</th>
+      <th>Card</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>65–72</td>
+      <td>74–77</td>
+      <td>Skull</td>
+    </tr>
+    <tr>
+      <td>73–80</td>
+      <td>78–82</td>
+      <td>Star</td>
+    </tr>
+    <tr>
+      <td>81–88</td>
+      <td>83–87</td>
+      <td>Sun</td>
+    </tr>
+    <tr>
+      <td>—</td>
+      <td>88–91</td>
+      <td>Talons</td>
+    </tr>
+    <tr>
+      <td>89–96</td>
+      <td>92–96</td>
+      <td>Throne</td>
+    </tr>
+    <tr>
+      <td>97–00</td>
+      <td>97–00</td>
+      <td>Void</td>
+    </tr>
+  </tbody>
+</table><p>Each card's effect is described below.</p>
+<p><em>Balance.</em> You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.</p>
+<p><em>Comet.</em> The next time you enter combat against one or more Hostile creatures, you can select one of them as your foe when you roll Initiative. If you reduce your foe to 0 Hit Points during that combat, you have Advantage on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 Hit Points or you don't choose a foe, this card has no effect.</p>
+<p><em>Donjon.</em> You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a <em>Wish</em> spell can reveal the location of your prison. You draw no more cards.</p>
+<p><em>Euryale.</em> The card's medusa-like visage curses you. You take a −2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.</p>
+<p><em>Fates.</em> Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.</p>
+<p><em>Flames.</em> A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.</p>
+<p><em>Fool.</em> You have Disadvantage on D20 Tests for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.</p>
+<p><em>Gem.</em> Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.</p>
+<p><em>Jester.</em> You have Advantage on D20 Tests for the next 72 hours, or you can draw two additional cards beyond your declared draws.</p>
+<p><em>Key.</em> A Rare or rarer magic weapon with which you are proficient appears on your person. The GM chooses the weapon.</p>
+<p><em>Knight.</em> You gain the service of a <strong>Knight</strong>, who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.</p>
+<p><em>Moon.</em> You gain the ability to cast <em>Wish</em> 1d3 times.</p>
+<p><em>Puzzle.</em> Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.</p>
+<p><em>Rogue.</em> An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a <em>Wish</em> spell or divine intervention can end the NPC's hostility toward you.</p>
+<p><em>Ruin.</em> All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.</p>
+<p><em>Sage.</em> At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.</p>
+<p><em>Skull.</em> An <strong>Avatar of Death</strong> (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another <strong>Avatar of Death</strong>. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.</p>
+<p><em>Star.</em> Increase one of your ability scores by 2, to a maximum of 24.</p>
+<p><em>Sun.</em> A magic item (chosen by the GM) appears on your person. In addition, you gain 10 Temporary Hit Points daily at dawn until you die.</p>
+<p><em>Talons.</em> Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.</p>
+<p><em>Throne.</em> You gain proficiency and Expertise in your choice of History, Insight, Intimidation, or Persuasion. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.</p>
+<p><em>Void.</em> Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A <em>Wish</em> spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/mithral-armor","children":"Mithral Armor"}],["$","span",null,{"className":"current-rule","children":"Mysterious Deck"}],["$","$L2",null,{"href":"/rules/magic-items/avatar-of-death","children":"Avatar of Death"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Mysterious Deck"}],["$","p",null,{"className":"rule-deck","children":"Wondrous Item, Legendary Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most 75 percent of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of th"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/mithral-armor","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Mithral Armor"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/avatar-of-death","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Avatar of Death"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

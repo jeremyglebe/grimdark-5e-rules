@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+5:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T62d,<p><em>Medium Construct, Unaligned</em></p>
+<p><strong>AC</strong> 18 <strong>Initiative</strong> +2 (12) <br />
+<strong>HP</strong> 33 (6d8 + 6) <br />
+<strong>Speed</strong> 25 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>DEX</strong></td>
+      <td>11</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td><strong>CON</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>1</td>
+      <td>−5</td>
+      <td>−5</td>
+      <td><strong>WIS</strong></td>
+      <td>3</td>
+      <td>−4</td>
+      <td>−4</td>
+      <td><strong>CHA</strong></td>
+      <td>1</td>
+      <td>−5</td>
+      <td>−5</td>
+    </tr>
+  </tbody>
+</table><p><strong>Immunities</strong> Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned<br />
+<strong>Senses</strong> Blindsight 60 ft.; Passive Perception 6<br />
+<strong>Languages</strong> None<br />
+<strong>CR</strong> 1 (XP 200; PB +2)</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The armor makes two Slam attacks.</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Attack Roll:</em> +4, reach 5 ft. <em>Hit:</em> 5 (1d6 + 2) Bludgeoning damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/animated-objects","children":"Animated Objects"}],["$","span",null,{"className":"current-rule","children":"Animated Armor"}],["$","$L2",null,{"href":"/rules/monsters/animated-flying-sword","children":"Animated Flying Sword"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Animated Armor"}],["$","p",null,{"className":"rule-deck","children":"Medium Construct, Unaligned AC 18 Initiative +2 12 HP 33 6d8 + 6 Speed 25 ft. MOD SAVE MOD SAVE MOD SAVE STR 14 +2 +2 DEX 11 +0 +0 CON 13 +1 +1 INT 1 −5 −5 WIS 3 −4 −4 CHA 1 −5 −5 Immunities Poison, Psychic; Charmed, Deafened, Exh"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/animated-objects","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Animated Objects"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/animated-flying-sword","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Animated Flying Sword"," →"]}]]}]]}]]}]]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

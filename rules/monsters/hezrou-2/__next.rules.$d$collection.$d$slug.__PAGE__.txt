@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T951,<p><em>Large Fiend (Demon), Chaotic Evil</em></p>
+<p><strong>AC</strong> 18 <strong>Initiative</strong> +6 (16) <br />
+<strong>HP</strong> 157 (15d10 + 75) <br />
+<strong>Speed</strong> 30 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>19</td>
+      <td>+4</td>
+      <td>+7</td>
+      <td><strong>DEX</strong></td>
+      <td>17</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td><strong>CON</strong></td>
+      <td>20</td>
+      <td>+5</td>
+      <td>+8</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>5</td>
+      <td>−3</td>
+      <td>−3</td>
+      <td><strong>WIS</strong></td>
+      <td>12</td>
+      <td>+1</td>
+      <td>+4</td>
+      <td><strong>CHA</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+    </tr>
+  </tbody>
+</table><p><strong>Resistances</strong> Cold, Fire, Lightning<br />
+<strong>Immunities</strong> Poison; Poisoned<br />
+<strong>Senses</strong> Darkvision 120 ft.; Passive Perception 11<br />
+<strong>Languages</strong> Abyssal; telepathy 120 ft.<br />
+<strong>CR</strong> 8 (XP 3,900; PB +3)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Demonic Restoration.</em></strong> If the hezrou dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.</p>
+<p><strong><em>Magic Resistance.</em></strong> The hezrou has Advantage on saving throws against spells and other magical effects.</p>
+<p><strong><em>Stench.</em></strong> <em>Constitution Saving Throw:</em> DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. <em>Failure:</em> The target has the Poisoned condition until the start of its next turn.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The hezrou makes three Rend attacks.</p>
+<p><strong><em>Rend.</em></strong> <em>Melee Attack Roll:</em> +7, reach 5 ft. <em>Hit:</em> 6 (1d4 + 4) Slashing damage plus 9 (2d8) Poison damage.</p>
+<h4>Bonus Actions</h4>
+<hr /><p><strong><em>Leap.</em></strong> The hezrou jumps up to 30 feet by spending 10 feet of movement.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/hezrou","children":"Hezrou"}],["$","span",null,{"className":"current-rule","children":"Hezrou"}],["$","$L2",null,{"href":"/rules/monsters/hill-giant","children":"Hill Giant"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Hezrou"}],["$","p",null,{"className":"rule-deck","children":"Large Fiend Demon , Chaotic Evil AC 18 Initiative +6 16 HP 157 15d10 + 75 Speed 30 ft. MOD SAVE MOD SAVE MOD SAVE STR 19 +4 +7 DEX 17 +3 +3 CON 20 +5 +8 INT 5 −3 −3 WIS 12 +1 +4 CHA 13 +1 +1 Resistances Cold, Fire, Lightning Immun"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/hezrou","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Hezrou"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/hill-giant","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Hill Giant"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

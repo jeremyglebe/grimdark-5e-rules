@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+4:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T496,<p><em>Ring, Rare</em></p>
+<p>You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the GM chooses or determines randomly by rolling on the following table.</p>
+<table>
+  <thead>
+    <tr>
+      <th>1d10</th>
+      <th>Damage Type</th>
+      <th>Gemstone</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Acid</td>
+      <td>Pearl</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Cold</td>
+      <td>Tourmaline</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fire</td>
+      <td>Garnet</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Force</td>
+      <td>Sapphire</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Lightning</td>
+      <td>Citrine</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Necrotic</td>
+      <td>Jet</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Poison</td>
+      <td>Amethyst</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Psychic</td>
+      <td>Jade</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Radiant</td>
+      <td>Topaz</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Thunder</td>
+      <td>Spinel</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/ring-of-regeneration","children":"Ring of Regeneration"}],["$","span",null,{"className":"current-rule","children":"Ring of Resistance"}],["$","$L2",null,{"href":"/rules/magic-items/ring-of-shooting-stars","children":"Ring of Shooting Stars"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Ring of Resistance"}],["$","p",null,{"className":"rule-deck","children":"Ring, Rare You have Resistance to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the GM chooses or determines randomly by rolling on the following table. 1d10 Damage Type Gemstone 1 Aci"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/ring-of-regeneration","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Ring of Regeneration"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/ring-of-shooting-stars","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Ring of Shooting Stars"," →"]}]]}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+6:null

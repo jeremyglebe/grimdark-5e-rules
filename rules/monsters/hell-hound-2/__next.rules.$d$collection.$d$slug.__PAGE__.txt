@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T805,<p><em>Medium Fiend, Lawful Evil</em></p>
+<p><strong>AC</strong> 15 <strong>Initiative</strong> +1 (11) <br />
+<strong>HP</strong> 58 (9d8 + 18) <br />
+<strong>Speed</strong> 50 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>17</td>
+      <td>+3</td>
+      <td>+3</td>
+      <td><strong>DEX</strong></td>
+      <td>12</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td><strong>CON</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>6</td>
+      <td>−2</td>
+      <td>−2</td>
+      <td><strong>WIS</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+      <td><strong>CHA</strong></td>
+      <td>6</td>
+      <td>−2</td>
+      <td>−2</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Perception +5<br />
+<strong>Immunities</strong> Fire<br />
+<strong>Senses</strong> Darkvision 60 ft.; Passive Perception 15<br />
+<strong>Languages</strong> Understands Infernal but can't speak<br />
+<strong>CR</strong> 3 (XP 700; PB +2)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Pack Tactics.</em></strong> The hound has Advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Multiattack.</em></strong> The hound makes two Bite attacks.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Attack Roll:</em> +5, reach 5 ft. <em>Hit:</em> 7 (1d8 + 3) Piercing damage plus 3 (1d6) Fire damage.</p>
+<p><strong><em>Fire Breath (Recharge 5–6).</em></strong> <em>Dexterity Saving Throw:</em> DC 12, each creature in a 15-foot Cone. <em>Failure:</em> 17 (5d6) Fire damage. <em>Success:</em> Half damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/hell-hound","children":"Hell Hound"}],["$","span",null,{"className":"current-rule","children":"Hell Hound"}],["$","$L2",null,{"href":"/rules/monsters/hezrou","children":"Hezrou"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Hell Hound"}],["$","p",null,{"className":"rule-deck","children":"Medium Fiend, Lawful Evil AC 15 Initiative +1 11 HP 58 9d8 + 18 Speed 50 ft. MOD SAVE MOD SAVE MOD SAVE STR 17 +3 +3 DEX 12 +1 +1 CON 14 +2 +2 INT 6 −2 −2 WIS 13 +1 +1 CHA 6 −2 −2 Skills Perception +5 Immunities Fire Senses Darkvi"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":["$L4"," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],"$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","strong",null,{"children":"Source:"}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/hell-hound","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Hell Hound"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/hezrou","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Hezrou"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

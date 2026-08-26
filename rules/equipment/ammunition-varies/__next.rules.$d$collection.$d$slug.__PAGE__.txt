@@ -1,0 +1,479 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T20f1,<p>Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.</p>
+<p><strong>Adventuring Gear</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Weight</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Acid</td>
+      <td>1 lb.</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>Alchemist's Fire</td>
+      <td>1 lb.</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Ammunition</td>
+      <td>Varies</td>
+      <td>Varies</td>
+    </tr>
+    <tr>
+      <td>Antitoxin</td>
+      <td>—</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Arcane Focus</td>
+      <td>Varies</td>
+      <td>Varies</td>
+    </tr>
+    <tr>
+      <td>Backpack</td>
+      <td>5 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Ball Bearings</td>
+      <td>2 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Barrel</td>
+      <td>70 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Basket</td>
+      <td>2 lb.</td>
+      <td>4 SP</td>
+    </tr>
+    <tr>
+      <td>Bedroll</td>
+      <td>7 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Bell</td>
+      <td>—</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Blanket</td>
+      <td>3 lb.</td>
+      <td>5 SP</td>
+    </tr>
+    <tr>
+      <td>Block and Tackle</td>
+      <td>5 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Book</td>
+      <td>5 lb.</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>Bottle, Glass</td>
+      <td>2 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Bucket</td>
+      <td>2 lb.</td>
+      <td>5 CP</td>
+    </tr>
+    <tr>
+      <td>Burglar's Pack</td>
+      <td>42 lb.</td>
+      <td>16 GP</td>
+    </tr>
+    <tr>
+      <td>Caltrops</td>
+      <td>2 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Candle</td>
+      <td>—</td>
+      <td>1 CP</td>
+    </tr>
+    <tr>
+      <td>Case, Crossbow Bolt</td>
+      <td>1 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Case, Map or Scroll</td>
+      <td>1 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Chain</td>
+      <td>10 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Chest</td>
+      <td>25 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Climber's Kit</td>
+      <td>12 lb.</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>Clothes, Fine</td>
+      <td>6 lb.</td>
+      <td>15 GP</td>
+    </tr>
+    <tr>
+      <td>Clothes, Traveler's</td>
+      <td>4 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Component Pouch</td>
+      <td>2 lb.</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>Costume</td>
+      <td>4 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Crowbar</td>
+      <td>5 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Diplomat's Pack</td>
+      <td>39 lb.</td>
+      <td>39 GP</td>
+    </tr>
+    <tr>
+      <td>Druidic Focus</td>
+      <td>Varies</td>
+      <td>Varies</td>
+    </tr>
+    <tr>
+      <td>Dungeoneer's Pack</td>
+      <td>55 lb.</td>
+      <td>12 GP</td>
+    </tr>
+    <tr>
+      <td>Entertainer's Pack</td>
+      <td>58½ lb.</td>
+      <td>40 GP</td>
+    </tr>
+    <tr>
+      <td>Explorer's Pack</td>
+      <td>55 lb.</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Flask</td>
+      <td>1 lb.</td>
+      <td>2 CP</td>
+    </tr>
+    <tr>
+      <td>Grappling Hook</td>
+      <td>4 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Healer's Kit</td>
+      <td>3 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Holy Symbol</td>
+      <td>Varies</td>
+      <td>Varies</td>
+    </tr>
+    <tr>
+      <td>Holy Water</td>
+      <td>1 lb.</td>
+      <td>25 GP</td>
+    </tr>
+    <tr>
+      <td>Hunting Trap</td>
+      <td>25 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Ink</td>
+      <td>—</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Ink Pen</td>
+      <td>—</td>
+      <td>2 CP</td>
+    </tr>
+    <tr>
+      <td>Jug</td>
+      <td>4 lb.</td>
+      <td>2 CP</td>
+    </tr>
+    <tr>
+      <td>Ladder</td>
+      <td>25 lb.</td>
+      <td>1 SP</td>
+    </tr>
+    <tr>
+      <td>Lamp</td>
+      <td>1 lb.</td>
+      <td>5 SP</td>
+    </tr>
+    <tr>
+      <td>Lantern, Bullseye</td>
+      <td>2 lb.</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Lantern, Hooded</td>
+      <td>2 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Lock</td>
+      <td>1 lb.</td>
+      <td>10 GP</td>
+    </tr>
+    <tr>
+      <td>Magnifying Glass</td>
+      <td>—</td>
+      <td>100 GP</td>
+    </tr>
+    <tr>
+      <td>Manacles</td>
+      <td>6 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Map</td>
+      <td>—</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Mirror</td>
+      <td>1/2 lb.</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Net</td>
+      <td>3 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Oil</td>
+      <td>1 lb.</td>
+      <td>1 SP</td>
+    </tr>
+    <tr>
+      <td>Paper</td>
+      <td>—</td>
+      <td>2 SP</td>
+    </tr>
+    <tr>
+      <td>Parchment</td>
+      <td>—</td>
+      <td>1 SP</td>
+    </tr>
+    <tr>
+      <td>Perfume</td>
+      <td>—</td>
+      <td>5 GP</td>
+    </tr>
+    <tr>
+      <td>Poison, Basic</td>
+      <td>—</td>
+      <td>100 GP</td>
+    </tr>
+    <tr>
+      <td>Pole</td>
+      <td>7 lb.</td>
+      <td>5 CP</td>
+    </tr>
+    <tr>
+      <td>Pot, Iron</td>
+      <td>10 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Potion of Healing</td>
+      <td>1/2 lb.</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Pouch</td>
+      <td>1 lb.</td>
+      <td>5 SP</td>
+    </tr>
+    <tr>
+      <td>Priest's Pack</td>
+      <td>29 lb.</td>
+      <td>33 GP</td>
+    </tr>
+    <tr>
+      <td>Quiver</td>
+      <td>1 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Ram, Portable</td>
+      <td>35 lb.</td>
+      <td>4 GP</td>
+    </tr>
+    <tr>
+      <td>Rations</td>
+      <td>2 lb.</td>
+      <td>5 SP</td>
+    </tr>
+    <tr>
+      <td>Robe</td>
+      <td>4 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Rope</td>
+      <td>5 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Sack</td>
+      <td>1/2 lb.</td>
+      <td>1 CP</td>
+    </tr>
+    <tr>
+      <td>Scholar's Pack</td>
+      <td>22 lb.</td>
+      <td>40 GP</td>
+    </tr>
+    <tr>
+      <td>Shovel</td>
+      <td>5 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Signal Whistle</td>
+      <td>—</td>
+      <td>5 CP</td>
+    </tr>
+    <tr>
+      <td>Spell Scroll (Cantrip)</td>
+      <td>—</td>
+      <td>30 GP</td>
+    </tr>
+    <tr>
+      <td>Spell Scroll (Level 1)</td>
+      <td>—</td>
+      <td>50 GP</td>
+    </tr>
+    <tr>
+      <td>Spikes, Iron</td>
+      <td>5 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Spyglass</td>
+      <td>1 lb.</td>
+      <td>1,000 GP</td>
+    </tr>
+    <tr>
+      <td>String</td>
+      <td>—</td>
+      <td>1 SP</td>
+    </tr>
+    <tr>
+      <td>Tent</td>
+      <td>20 lb.</td>
+      <td>2 GP</td>
+    </tr>
+    <tr>
+      <td>Tinderbox</td>
+      <td>1 lb.</td>
+      <td>5 SP</td>
+    </tr>
+    <tr>
+      <td>Torch</td>
+      <td>1 lb.</td>
+      <td>1 CP</td>
+    </tr>
+    <tr>
+      <td>Vial</td>
+      <td>—</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Waterskin</td>
+      <td>5 lb. (full)</td>
+      <td>2 SP</td>
+    </tr>
+  </tbody>
+</table><p><strong>Ammunition</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Amount</th>
+      <th>Storage</th>
+      <th>Weight</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Arrows</td>
+      <td>20</td>
+      <td>Quiver</td>
+      <td>1 lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Bolts</td>
+      <td>20</td>
+      <td>Case</td>
+      <td>1½ lb.</td>
+      <td>1 GP</td>
+    </tr>
+    <tr>
+      <td>Bullets, Firearm</td>
+      <td>10</td>
+      <td>Pouch</td>
+      <td>2 lb.</td>
+      <td>3 GP</td>
+    </tr>
+    <tr>
+      <td>Bullets, Sling</td>
+      <td>20</td>
+      <td>Pouch</td>
+      <td>1½ lb.</td>
+      <td>4 CP</td>
+    </tr>
+    <tr>
+      <td>Needles</td>
+      <td>50</td>
+      <td>Pouch</td>
+      <td>1 lb.</td>
+      <td>1 GP</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Equipment"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/equipment/alchemists-fire-50-gp","children":"Alchemist's Fire (50 GP)"}],["$","span",null,{"className":"current-rule","children":"Ammunition (Varies)"}],["$","$L2",null,{"href":"/rules/equipment/antitoxin-50-gp","children":"Antitoxin (50 GP)"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Equipment"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Equipment"}],["$","h1",null,{"children":"Ammunition (Varies)"}],["$","p",null,{"className":"rule-deck","children":"Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy th"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/equipment/alchemists-fire-50-gp","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Alchemist's Fire (50 GP)"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/equipment/antitoxin-50-gp","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Antitoxin (50 GP)"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

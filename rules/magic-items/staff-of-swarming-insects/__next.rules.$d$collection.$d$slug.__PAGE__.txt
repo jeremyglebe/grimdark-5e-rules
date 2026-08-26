@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+4:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T4d7,<p><em>Staff, Rare (Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)</em></p>
+<p>This staff has 10 charges.</p>
+<p><em>Insect Cloud.</em> While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot Emanation originating from you. The insects remain for 10 minutes, making the area Heavily Obscured for creatures other than you. A strong wind (like that created by <em>Gust of Wind</em>) disperses the swarm and ends the effect.</p>
+<p><em>Spells.</em> While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC and spell attack modifier. The table indicates how many charges you must expend to cast the spell.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Spell</th>
+      <th>Charge Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>*Giant Insect*</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>*Insect Plague*</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table><p><em>Regaining Charges.</em> The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/staff-of-striking","children":"Staff of Striking"}],["$","span",null,{"className":"current-rule","children":"Staff of Swarming Insects"}],["$","$L2",null,{"href":"/rules/magic-items/staff-of-the-magi","children":"Staff of the Magi"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Staff of Swarming Insects"}],["$","p",null,{"className":"rule-deck","children":"Staff, Rare Requires Attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard This staff has 10 charges. Insect Cloud. While holding the staff, you can take a Magic action and expend 1 charge to cause a swarm of harmless "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/staff-of-striking","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Staff of Striking"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/staff-of-the-magi","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Staff of the Magi"," →"]}]]}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+6:null

@@ -1,0 +1,271 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","classes","rogue",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","classes","d",null],{"children":[["slug","rogue","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DX1w7l3nAf5i8ZBgfa13x"}
+f:[]
+9:"$Wf"
+10:T32ee,<p><strong>Core Rogue Traits</strong></p>
+<table>
+  <tbody>
+    <tr>
+      <td>Primary Ability</td>
+      <td>Dexterity</td>
+    </tr>
+    <tr>
+      <td>Hit Point Die</td>
+      <td>D8 per Rogue level</td>
+    </tr>
+    <tr>
+      <td>Saving Throw Proficiencies</td>
+      <td>Dexterity and Intelligence</td>
+    </tr>
+    <tr>
+      <td>Skill Proficiencies</td>
+      <td>Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth</td>
+    </tr>
+    <tr>
+      <td>Weapon Proficiencies</td>
+      <td>Simple weapons and Martial weapons that have the Finesse or Light property</td>
+    </tr>
+    <tr>
+      <td>Tool Proficiencies</td>
+      <td>Thieves' Tools</td>
+    </tr>
+    <tr>
+      <td>Armor Training</td>
+      <td>Light armor</td>
+    </tr>
+    <tr>
+      <td>Starting Equipment</td>
+      <td>Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP</td>
+    </tr>
+  </tbody>
+</table><h3>Becoming a Rogue …</h3>
+<h4>As a Level 1 Character</h4>
+<ul>
+<li>Gain all the traits in the Core Rogue Traits table.</li>
+<li>Gain the Rogue's level 1 features, which are listed in the Rogue Features table.</li>
+</ul>
+<h4>As a Multiclass Character</h4>
+<ul>
+<li>Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.</li>
+<li>Gain the Rogue's level 1 features, which are listed in the Rogue Features table.</li>
+</ul>
+<h3>Rogue Class Features</h3>
+<p>As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.</p>
+<p><strong>Rogue Features</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Proficiency Bonus</th>
+      <th>Class Features</th>
+      <th>Sneak Attack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>+2</td>
+      <td>Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery</td>
+      <td>1d6</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>+2</td>
+      <td>Cunning Action</td>
+      <td>1d6</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>+2</td>
+      <td>Rogue Subclass, Steady Aim</td>
+      <td>2d6</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>+2</td>
+      <td>Ability Score Improvement</td>
+      <td>2d6</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>+3</td>
+      <td>Cunning Strike, Uncanny Dodge</td>
+      <td>3d6</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>+3</td>
+      <td>Expertise</td>
+      <td>3d6</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>+3</td>
+      <td>Evasion, Reliable Talent</td>
+      <td>4d6</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>+3</td>
+      <td>Ability Score Improvement</td>
+      <td>4d6</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>+4</td>
+      <td>Subclass feature</td>
+      <td>5d6</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>+4</td>
+      <td>Ability Score Improvement</td>
+      <td>5d6</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>+4</td>
+      <td>Improved Cunning Strike</td>
+      <td>6d6</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>+4</td>
+      <td>Ability Score Improvement</td>
+      <td>6d6</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>+5</td>
+      <td>Subclass feature</td>
+      <td>7d6</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>+5</td>
+      <td>Devious Strikes</td>
+      <td>7d6</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>+5</td>
+      <td>Slippery Mind</td>
+      <td>8d6</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>+5</td>
+      <td>Ability Score Improvement</td>
+      <td>8d6</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>+6</td>
+      <td>Subclass feature</td>
+      <td>9d6</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>+6</td>
+      <td>Elusive</td>
+      <td>9d6</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>+6</td>
+      <td>Epic Boon</td>
+      <td>10d6</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>+6</td>
+      <td>Stroke of Luck</td>
+      <td>10d6</td>
+    </tr>
+  </tbody>
+</table><h4>Level 1: Expertise</h4>
+<p>You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them.</p>
+<p>At Rogue level 6, you gain Expertise in two more of your skill proficiencies of your choice.</p>
+<h4>Level 1: Sneak Attack</h4>
+<p>You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.</p>
+<p>You don't need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.</p>
+<h4>Level 1: Thieves' Cant</h4>
+<p>You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in "Character Creation."</p>
+<h4>Level 1: Weapon Mastery</h4>
+<p>Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.</p>
+<p>Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.</p>
+<h4>Level 2: Cunning Action</h4>
+<p>Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.</p>
+<h4>Level 3: Rogue Subclass</h4>
+<p>You gain a Rogue subclass of your choice. The Thief subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.</p>
+<h4>Level 3: Steady Aim</h4>
+<p>As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.</p>
+<h4>Level 4: Ability Score Improvement</h4>
+<p>You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.</p>
+<h4>Level 5: Cunning Strike</h4>
+<p>You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.</p>
+<p>If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.</p>
+<p><em>Poison (Cost: 1d6).</em> You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.</p>
+<p>To use this effect, you must have a Poisoner's Kit on your person.</p>
+<p><em>Trip (Cost: 1d6).</em> If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.</p>
+<p><em>Withdraw (Cost: 1d6).</em> Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.</p>
+<h4>Level 5: Uncanny Dodge</h4>
+<p>When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).</p>
+<h4>Level 7: Evasion</h4>
+<p>You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.</p>
+<h4>Level 7: Reliable Talent</h4>
+<p>Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10.</p>
+<h4>Level 11: Improved Cunning Strike</h4>
+<p>You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.</p>
+<h4>Level 14: Devious Strikes</h4>
+<p>You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.</p>
+<p><em>Daze (Cost: 2d6).</em> The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.</p>
+<p><em>Knock Out (Cost: 6d6).</em> The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.</p>
+<p><em>Obscure (Cost: 3d6).</em> The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.</p>
+<h4>Level 15: Slippery Mind</h4>
+<p>Your cunning mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws.</p>
+<h4>Level 18: Elusive</h4>
+<p>You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have Advantage against you unless you have the Incapacitated condition.</p>
+<h4>Level 19: Epic Boon</h4>
+<p>You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.</p>
+<h4>Level 20: Stroke of Luck</h4>
+<p>You have a marvelous knack for succeeding when you need to. If you fail a D20 Test, you can turn the roll into a 20.</p>
+<p>Once you use this feature, you can't use it again until you finish a Short or Long Rest.</p>
+<h3>Rogue Subclass: Thief</h3>
+<p><em>Hunt for Treasure as a Classic Adventurer</em></p>
+<p>A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.</p>
+<h4>Level 3: Fast Hands</h4>
+<p>As a Bonus Action, you can do one of the following.</p>
+<p><em>Sleight of Hand.</em> Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket.</p>
+<p><em>Use an Object.</em> Take the Utilize action, or take the Magic action to use a magic item that requires that action.</p>
+<h4>Level 3: Second-Story Work</h4>
+<p>You've trained to get into especially hard-to-reach places, granting you these benefits.</p>
+<p><em>Climber.</em> You gain a Climb Speed equal to your Speed.</p>
+<p><em>Jumper.</em> You can determine your jump distance using your Dexterity rather than your Strength.</p>
+<h4>Level 9: Supreme Sneak</h4>
+<p>You gain the following Cunning Strike option.</p>
+<p><em>Stealth Attack (Cost: 1d6).</em> If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.</p>
+<h4>Level 13: Use Magic Device</h4>
+<p>You've learned how to maximize use of magic items, granting you the following benefits.</p>
+<p><em>Attunement.</em> You can attune to up to four magic items at once.</p>
+<p><em>Charges.</em> Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.</p>
+<p><em>Scrolls.</em> You can use any <em>Spell Scroll</em>, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.</p>
+<h4>Level 17: Thief's Reflexes</h4>
+<p>You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.</p>
+5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Classes"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/classes/ranger","children":"Ranger"}],["$","span",null,{"className":"current-rule","children":"Rogue"}],["$","$L2",null,{"href":"/rules/classes/sorcerer","children":"Sorcerer"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Classes"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Classes"}],["$","h1",null,{"children":"Rogue"}],["$","p",null,{"className":"rule-deck","children":"Core Rogue Traits Primary Ability Dexterity Hit Point Die D8 per Rogue level Saving Throw Proficiencies Dexterity and Intelligence Skill Proficiencies Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigatio"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/classes/ranger","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Ranger"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/classes/sorcerer","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Sorcerer"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Rogue · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"Core Rogue Traits Primary Ability Dexterity Hit Point Die D8 per Rogue level Saving Throw Proficiencies Dexterity and Intelligence Skill Proficiencies Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigatio"}],["$","meta","2",{"property":"og:title","content":"Rogue · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"Core Rogue Traits Primary Ability Dexterity Hit Point Die D8 per Rogue level Saving Throw Proficiencies Dexterity and Intelligence Skill Proficiencies Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigatio"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Rogue · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"Core Rogue Traits Primary Ability Dexterity Hit Point Die D8 per Rogue level Saving Throw Proficiencies Dexterity and Intelligence Skill Proficiencies Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigatio"}]]

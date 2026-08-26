@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","magic-items","special-purpose",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","magic-items","d",null],{"children":[["slug","special-purpose","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DX1w7l3nAf5i8ZBgfa13x"}
+f:[]
+9:"$Wf"
+10:Tfce,<p>You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see "Conflict" below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.</p>
+<p><strong>Sentient Item's Alignment</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d100</th>
+      <th>Alignment</th>
+      <th>1d100</th>
+      <th>Alignment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01–15</td>
+      <td>Lawful Good</td>
+      <td>74–85</td>
+      <td>Chaotic Neutral</td>
+    </tr>
+    <tr>
+      <td>16–35</td>
+      <td>Neutral Good</td>
+      <td>86–89</td>
+      <td>Lawful Evil</td>
+    </tr>
+    <tr>
+      <td>36–50</td>
+      <td>Chaotic Good</td>
+      <td>90–96</td>
+      <td>Neutral Evil</td>
+    </tr>
+    <tr>
+      <td>51–63</td>
+      <td>Lawful Neutral</td>
+      <td>97–00</td>
+      <td>Chaotic Evil</td>
+    </tr>
+    <tr>
+      <td>64–73</td>
+      <td>Neutral</td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table><p><strong>Sentient Item's Communication</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d10</th>
+      <th>Communication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1–6</td>
+      <td>The item communicates by transmitting emotion to the creature carrying or wielding it.</td>
+    </tr>
+    <tr>
+      <td>7–9</td>
+      <td>The item speaks one or more languages.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it.</td>
+    </tr>
+  </tbody>
+</table><p><strong>Sentient Item's Senses</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d4</th>
+      <th>Senses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Hearing and standard vision out to 30 feet</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Hearing and standard vision out to 60 feet</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Hearing and standard vision out to 120 feet</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Hearing and Darkvision out to 120 feet</td>
+    </tr>
+  </tbody>
+</table><p><strong>Sentient Item's Special Purpose</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>1d10</th>
+      <th>Special Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Aligned. The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bane. The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Creator Seeker. The item seeks its creator and wants to understand why it was created.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Destiny Seeker. The item believes it and its bearer have key roles to play in future events.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Destroyer. The item craves destruction and goads its user to fight arbitrarily.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Glory Seeker. The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Lore Seeker. The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Protector. The item seeks to defend a particular kind of creature, such as elves or werewolves.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Soulmate Seeker. The item seeks another sentient magic item, perhaps one that is similar to itself.</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Templar. The item seeks to defend the servants and interests of a particular deity.</td>
+    </tr>
+  </tbody>
+</table>5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/sentient-magic-item-traits","children":"Sentient Magic Item Traits"}],["$","span",null,{"className":"current-rule","children":"Special Purpose"}],["$","$L2",null,{"href":"/rules/magic-items/conflict","children":"Conflict"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Special Purpose"}],["$","p",null,{"className":"rule-deck","children":"You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/magic-items/sentient-magic-item-traits","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Sentient Magic Item Traits"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/magic-items/conflict","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Conflict"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Special Purpose · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might "}],["$","meta","2",{"property":"og:title","content":"Special Purpose · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might "}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Special Purpose · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might "}]]

@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Tcfd,<p>Due to the nature of their vocation, adventurers tend to be less susceptible to fear and mental stress than common folk. Whereas a farmer might flee in terror from a bear or an apparition, adventurers are made of sterner stuff. That said, certain creatures and game effects can terrify or fray the mind of even the most stalwart adventurer.</p>
+<p>If you plan to use any of these rules, discuss them with your players at the start of the campaign.</p>
+<h3>Fear Effects</h3>
+<p>Whenever the characters encounter something that is supernaturally frightful, use the Frightened condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC based on how terrifying the situation is. The Sample Fear DCs table provides some examples.</p>
+<p><strong>Sample Fear DCs</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Example</th>
+      <th>Save DC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>When the characters open a sarcophagus, a harmless yet terrifying apparition appears.</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>A character triggers a magical trap that creates an illusory manifestation of that character's worst fears, visible only to that character.</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter.</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table><p>Typically, a Frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+<p>At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:</p>
+<ul>
+<li>The Frightened creature must take the Dash action on each of its turns and uses its movement to get farther away from the source of its fear.</li>
+<li>Attack rolls against the Frightened creature have Advantage.</li>
+<li>The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.</li>
+</ul>
+<h3>Mental Stress Effects</h3>
+<p>When a character is subjected to an effect that causes intense mental stress, Psychic damage is the best way to emulate that effect.</p>
+<p>The Sample Mental Stress Effects table provides a few examples of such effects, with suggested saving throw DCs and damage. Mental stress can usually be resisted with a successful Wisdom save, but sometimes an Intelligence or Charisma save is more appropriate. On a successful save, a character might take half as much damage instead of no damage, at your discretion.</p>
+<p><strong>Sample Mental Stress Effects</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Example</th>
+      <th>Save DC</th>
+      <th>Psychic Damage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A character ingests a hallucinogenic substance that distorts the character's perception of reality.</td>
+      <td>10</td>
+      <td>1d6</td>
+    </tr>
+    <tr>
+      <td>A character touches a fiendish idol that tears at the character's mind, threatening to shatter it.</td>
+      <td>15</td>
+      <td>3d6</td>
+    </tr>
+    <tr>
+      <td>A magical trap flings a character into the Far Realm until the end of that character's next turn.</td>
+      <td>20</td>
+      <td>9d6</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Gameplay Toolbox"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/gameplay-toolbox/environmental-effects","children":"Environmental Effects"}],["$","span",null,{"className":"current-rule","children":"Fear and Mental Stress"}],["$","$L2",null,{"href":"/rules/gameplay-toolbox/prolonged-effects","children":"Prolonged Effects"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Gameplay Toolbox"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],["$","span",null,{"className":"rule-badge replaced","children":"Changed in Grimdark 5e"}],false]}],["$","p",null,{"className":"kicker","children":"Gameplay Toolbox"}],["$","h1",null,{"children":"Fear and Mental Stress"}],["$","p",null,{"className":"rule-deck","children":"Due to the nature of their vocation, adventurers tend to be less susceptible to fear and mental stress than common folk. Whereas a farmer might flee in terror from a bear or an apparition, adventurers are made of sterner stuff. Th"}]]}],["$","section",null,{"className":"change-callout","aria-labelledby":"grimdark-replacements","children":[["$","p",null,{"className":"change-callout-label","children":"This 2024 rule changes in Grimdark 5e"}],["$","h2",null,{"id":"grimdark-replacements","children":"Use these rules at a Grimdark table"}],["$","div",null,{"className":"change-links","children":[["$","$L2","grimdark/fear-and-terror",{"href":"/rules/grimdark/fear-and-terror","children":[["$","span",null,{"children":[["$","strong",null,{"children":"Fear and Terror"}],["$","small",null,{"children":"Modifies or expands: the 2024 Fear and Mental Stress toolbox. Fear represents an immediate psychological threat. Terror represents an overwhelming or reality-breaking threat capable of producing stronger consequences. Resolve is e"}]]}],["$","span",null,{"aria-hidden":"true","children":"→"}]]}]]}]]}],false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/gameplay-toolbox/environmental-effects","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Environmental Effects"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/gameplay-toolbox/prolonged-effects","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Prolonged Effects"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T7ac,<p><em>Medium Fey (Goblinoid), Chaotic Evil</em></p>
+<p><strong>AC</strong> 14 <strong>Initiative</strong> +2 (12) <br />
+<strong>HP</strong> 33 (6d8 + 6) <br />
+<strong>Speed</strong> 30 ft. <br /></p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+      <th></th>
+      <th></th>
+      <th>MOD</th>
+      <th>SAVE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>STR</strong></td>
+      <td>15</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>DEX</strong></td>
+      <td>14</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td><strong>CON</strong></td>
+      <td>13</td>
+      <td>+1</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td><strong>INT</strong></td>
+      <td>8</td>
+      <td>−1</td>
+      <td>−1</td>
+      <td><strong>WIS</strong></td>
+      <td>11</td>
+      <td>+0</td>
+      <td>+0</td>
+      <td><strong>CHA</strong></td>
+      <td>9</td>
+      <td>−1</td>
+      <td>−1</td>
+    </tr>
+  </tbody>
+</table><p><strong>Skills</strong> Stealth +6, Survival +2<br />
+<strong>Gear</strong> Hide Armor, Light Hammers (3)<br />
+<strong>Senses</strong> Darkvision 60 ft.; Passive Perception 10<br />
+<strong>Languages</strong> Common, Goblin<br />
+<strong>CR</strong> 1 (XP 200; PB +2)</p>
+<h4>Traits</h4>
+<hr /><p><strong><em>Abduct.</em></strong> The bugbear needn't spend extra movement to move a creature it is grappling.</p>
+<h4>Actions</h4>
+<hr /><p><strong><em>Grab.</em></strong> <em>Melee Attack Roll:</em> +4, reach 10 ft. <em>Hit:</em> 9 (2d6 + 2) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).</p>
+<p><strong><em>Light Hammer.</em></strong> <em>Melee or Ranged Attack Roll:</em> +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. <em>Hit:</em> 9 (3d4 + 2) Bludgeoning damage.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Monsters A–Z"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/monsters/bugbear-stalker","children":"Bugbear Stalker"}],["$","span",null,{"className":"current-rule","children":"Bugbear Warrior"}],["$","$L2",null,{"href":"/rules/monsters/bulette","children":"Bulette"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Monsters A–Z"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Monsters A–Z"}],["$","h1",null,{"children":"Bugbear Warrior"}],["$","p",null,{"className":"rule-deck","children":"Medium Fey Goblinoid , Chaotic Evil AC 14 Initiative +2 12 HP 33 6d8 + 6 Speed 30 ft. MOD SAVE MOD SAVE MOD SAVE STR 15 +2 +2 DEX 14 +2 +2 CON 13 +1 +1 INT 8 −1 −1 WIS 11 +0 +0 CHA 9 −1 −1 Skills Stealth +6, Survival +2 Gear Hide "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/monsters/bugbear-stalker","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Bugbear Stalker"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/monsters/bulette","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Bulette"," →"]}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

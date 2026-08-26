@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Td82,<p>The glossary uses the following conventions:</p>
+<p><strong>Tags in Brackets.</strong> Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.</p>
+<p><strong>"You."</strong> The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the Prone condition is a creature that currently has that condition.</p>
+<p><strong>"See Also."</strong> Some glossary entries include a <em>See also</em> section that points to other entries in the glossary, to other parts of this document, or both.</p>
+<p><strong>No Obsolete Terms.</strong> The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.</p>
+<p><strong>Abbreviations.</strong> The abbreviations listed below appear in this glossary and elsewhere in the rules.</p>
+<table>
+  <tbody>
+    <tr>
+      <td>AC</td>
+      <td>Armor Class</td>
+      <td>M</td>
+      <td>Material</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Concentration</td>
+      <td></td>
+      <td>component</td>
+    </tr>
+    <tr>
+      <td>CE</td>
+      <td>Chaotic Evil</td>
+      <td>N</td>
+      <td>Neutral</td>
+    </tr>
+    <tr>
+      <td>CG</td>
+      <td>Chaotic Good</td>
+      <td>NE</td>
+      <td>Neutral Evil</td>
+    </tr>
+    <tr>
+      <td>Cha.</td>
+      <td>Charisma</td>
+      <td>NG</td>
+      <td>Neutral Good</td>
+    </tr>
+    <tr>
+      <td>CN</td>
+      <td>Chaotic Neutral</td>
+      <td>NPC</td>
+      <td>Nonplayer</td>
+    </tr>
+    <tr>
+      <td>Con.</td>
+      <td>Constitution</td>
+      <td></td>
+      <td>character</td>
+    </tr>
+    <tr>
+      <td>CP</td>
+      <td>Copper Piece(s)</td>
+      <td>PB</td>
+      <td>Proficiency Bonus</td>
+    </tr>
+    <tr>
+      <td>CR</td>
+      <td>Challenge Rating</td>
+      <td>PP</td>
+      <td>Platinum Piece(s)</td>
+    </tr>
+    <tr>
+      <td>DC</td>
+      <td>Difficulty Class</td>
+      <td>R</td>
+      <td>Ritual</td>
+    </tr>
+    <tr>
+      <td>Dex.</td>
+      <td>Dexterity</td>
+      <td>S</td>
+      <td>Somatic</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>component</td>
+    </tr>
+    <tr>
+      <td>EP</td>
+      <td>Electrum Piece(s)</td>
+      <td>SP</td>
+      <td>Silver Piece(s)</td>
+    </tr>
+    <tr>
+      <td>GM</td>
+      <td>Game Master</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GP</td>
+      <td>Gold Piece(s)</td>
+      <td>Str.</td>
+      <td>Strength</td>
+    </tr>
+    <tr>
+      <td>HP</td>
+      <td>Hit Point(s)</td>
+      <td>V</td>
+      <td>Verbal</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>component</td>
+    </tr>
+    <tr>
+      <td>Int.</td>
+      <td>Intelligence</td>
+      <td>Wis.</td>
+      <td>Wisdom</td>
+    </tr>
+    <tr>
+      <td>LE</td>
+      <td>Lawful Evil</td>
+      <td>XP</td>
+      <td>Experience</td>
+    </tr>
+    <tr>
+      <td>LG</td>
+      <td>Lawful Good</td>
+      <td></td>
+      <td>Point(s)</td>
+    </tr>
+    <tr>
+      <td>LN</td>
+      <td>Lawful Neutral</td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Rules Glossary"}],["$","nav",null,{"aria-label":"Nearby rules","children":["$undefined",["$","span",null,{"className":"current-rule","children":"Glossary Conventions"}],["$","$L2",null,{"href":"/rules/rules-glossary/rules-definitions","children":"Rules Definitions"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Rules Glossary"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Rules Glossary"}],["$","h1",null,{"children":"Glossary Conventions"}],["$","p",null,{"className":"rule-deck","children":"The glossary uses the following conventions: Tags in Brackets. Some entries have a tag in brackets after the entry's name, as in \"Attack Action .\" A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule "}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","span",null,{}],["$","$L2",null,{"className":"next","href":"/rules/rules-glossary/rules-definitions","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Rules Definitions"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T71f,<p>"Equipment" contains rules on brewing <em>Potions of Healing</em> and scribing <em>Spell Scrolls</em>. To create other magic items, follow the rules below. In these rules, "you" refers to the character crafting the magic item.</p>
+<h3>Arcana Proficiency</h3>
+<p>To craft a magic item, you and any assistants must have proficiency in the Arcana skill.</p>
+<h3>Tools</h3>
+<p>The Magic Item Tools table lists which tool is required to make a magic item of each category. You must use the required tool to make an item and have proficiency with that tool. Any assistants must also have proficiency with it. For more information on the tools, see "Equipment."</p>
+<p><strong>Magic Item Tools</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>Item Category</th>
+      <th>Required Tool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Armor</td>
+      <td>Leatherworker's Tools, Smith's Tools, or Weaver's Tools depending on the kind of armor as noted in the tools' descriptions</td>
+    </tr>
+    <tr>
+      <td>Potion</td>
+      <td>Alchemist's Supplies or Herbalism Kit</td>
+    </tr>
+    <tr>
+      <td>Ring</td>
+      <td>Jeweler's Tools</td>
+    </tr>
+    <tr>
+      <td>Rod</td>
+      <td>Woodcarver's Tools</td>
+    </tr>
+    <tr>
+      <td>Scroll</td>
+      <td>Calligrapher's Supplies</td>
+    </tr>
+    <tr>
+      <td>Staff</td>
+      <td>Woodcarver's Tools</td>
+    </tr>
+    <tr>
+      <td>Wand</td>
+      <td>Woodcarver's Tools</td>
+    </tr>
+    <tr>
+      <td>Weapon</td>
+      <td>Leatherworker's Tools, Smith's Tools, or Woodcarver's Tools depending on the kind of weapon as noted in the tools' descriptions</td>
+    </tr>
+    <tr>
+      <td>Wondrous Item</td>
+      <td>Tinker's Tools or the tool required to make the nonmagical item on which the magic item is based</td>
+    </tr>
+  </tbody>
+</table>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Magic Items"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/magic-items/magic-item-resilience","children":"Magic Item Resilience"}],["$","span",null,{"className":"current-rule","children":"Crafting Magic Items"}],["$","$L2",null,{"href":"/rules/magic-items/spells","children":"Spells"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Magic Items"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Magic Items"}],["$","h1",null,{"children":"Crafting Magic Items"}],["$","p",null,{"className":"rule-deck","children":"\"Equipment\" contains rules on brewing Potions of Healing and scribing Spell Scrolls . To create other magic items, follow the rules below. In these rules, \"you\" refers to the character crafting the magic item. Arcana Proficiency T"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","$L2",null,{"href":"/rules/magic-items/magic-item-resilience","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Magic Item Resilience"]}]]}]
+5:["$","$L2",null,{"className":"next","href":"/rules/magic-items/spells","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Spells"," →"]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

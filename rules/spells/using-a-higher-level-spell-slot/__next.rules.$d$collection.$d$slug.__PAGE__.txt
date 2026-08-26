@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T775,<p>When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts <em>Magic Missile</em> using a level 2 slot, that <em>Magic Missile</em> is level 2. Effectively, the spell expands to fill the slot it is put into.
+Some spells, such as <em>Magic Missile</em> and <em>Cure Wounds</em>, have more powerful effects when cast at a higher level, as detailed in a spell's description.</p>
+<h3>School of Magic</h3>
+<p>Each spell belongs to a school of magic. The schools are listed in the Schools of Magic table. These categories help describe spells but have no rules of their own, although some other rules refer to them.</p>
+<p><strong>Schools of Magic</strong></p>
+<table>
+  <thead>
+    <tr>
+      <th>School</th>
+      <th>Typical Effects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abjuration</td>
+      <td>Prevents or reverses harmful effects</td>
+    </tr>
+    <tr>
+      <td>Conjuration</td>
+      <td>Transports creatures or objects</td>
+    </tr>
+    <tr>
+      <td>Divination</td>
+      <td>Reveals information</td>
+    </tr>
+    <tr>
+      <td>Enchantment</td>
+      <td>Influences minds</td>
+    </tr>
+    <tr>
+      <td>Evocation</td>
+      <td>Channels energy to create effects that are often destructive</td>
+    </tr>
+    <tr>
+      <td>Illusion</td>
+      <td>Deceives the mind or senses</td>
+    </tr>
+    <tr>
+      <td>Necromancy</td>
+      <td>Manipulates life and death</td>
+    </tr>
+    <tr>
+      <td>Transmutation</td>
+      <td>Transforms creatures or objects</td>
+    </tr>
+  </tbody>
+</table><h3>Class Spell Lists</h3>
+<p>If a spell is on a class's spell list, the class's name appears in parentheses after the spell's school of magic. Some features add a spell to a character's spell list even if the character isn't a member of a class in the parentheses.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Spells"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/spells/casting-without-slots","children":"Casting without Slots"}],["$","span",null,{"className":"current-rule","children":"Using a Higher-Level Spell Slot"}],["$","$L2",null,{"href":"/rules/spells/casting-time","children":"Casting Time"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Spells"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge baseline","children":"SRD 5.2.1 baseline"}],false,false]}],["$","p",null,{"className":"kicker","children":"Spells"}],["$","h1",null,{"children":"Using a Higher-Level Spell Slot"}],["$","p",null,{"className":"rule-deck","children":"When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts Magic Missile using a level 2 slot, that Magic Missile i"}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Source:"}]," SRD 5.2.1 under CC-BY-4.0. A linked Grimdark rule supersedes this passage when marked above."]}]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DX1w7l3nAf5i8ZBgfa13x"}
+4:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/spells/casting-without-slots","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Casting without Slots"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/spells/casting-time","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Casting Time"," →"]}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
