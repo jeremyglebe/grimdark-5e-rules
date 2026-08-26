@@ -3,7 +3,7 @@
   "title": "Grimdark 5e",
   "description": "A Foundry VTT 14 module that layers dangerous, consequence-driven combat rules over the D&D5e 2024 rules baseline.",
   "version": "0.1.0",
-  "url": "https://jeremyglebe.com/grimdark-5e-rules/",
+  "url": "https://jeremyglebe.com/grimdark-5e-rules",
   "manifest": "https://jeremyglebe.com/grimdark-5e-rules/module/module.json",
   "download": "https://jeremyglebe.com/grimdark-5e-rules/module/versions/v0.1.0/module.zip",
   "authors": [
@@ -26,8 +26,12 @@
       }
     ]
   },
-  "esmodules": ["scripts/grimdark-5e.mjs"],
-  "styles": ["styles/grimdark-5e.css"],
+  "esmodules": [
+    "scripts/grimdark-5e.mjs"
+  ],
+  "styles": [
+    "styles/grimdark-5e.css"
+  ],
   "languages": [
     {
       "lang": "en",
