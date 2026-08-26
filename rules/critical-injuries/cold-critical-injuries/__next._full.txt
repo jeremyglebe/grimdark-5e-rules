@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[39756,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[68027,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","style"]
+:HL["/grimdark-5e-rules/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/grimdark-5e-rules/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","rules","critical-injuries","cold-critical-injuries",""],"q":"","i":false,"f":[[["",{"children":["rules",{"children":[["collection","critical-injuries","d",null],{"children":[["slug","cold-critical-injuries","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":[["$","header",null,{"className":"topbar","children":[["$","$L2",null,{"className":"brand","href":"/","aria-label":"Grimdark 5e Rules home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"G5"}],["$","span",null,{"children":[["$","strong",null,{"children":"Grimdark 5e"}],["$","small",null,{"children":"Rules Reference"}]]}]]}],["$","nav",null,{"className":"topnav","aria-label":"Primary navigation","children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}],["$","span",null,{"className":"baseline-pill","children":"SRD 5.2.1"}],["$","details",null,{"className":"mobile-nav","children":[["$","summary",null,{"aria-label":"Open navigation","children":"Menu"}],["$","nav",null,{"children":[["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","$L2",null,{"href":"/whats-new","children":"What’s new?"}],["$","$L2",null,{"href":"/rules/grimdark/open-rules-index","children":"Open rules"}],["$","$L2",null,{"href":"/license","children":"License"}]]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":[["$","span",null,{"children":"Grimdark 5e Rules Reference"}],["$","span",null,{"children":[["$","$L2",null,{"href":"/license","children":"SRD 5.2.1 · CC-BY-4.0"}]," · Unofficial"]}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/grimdark-5e-rules/_next/static/chunks/0pyp4_-g65yl8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"FRjcLkFCfUHnlX2lKTlAe"}
+f:[]
+9:"$Wf"
+10:T1320,<p>Shock, frostbite, hypothermia, and flesh made brittle by supernatural cold.</p>
+<table>
+<thead>
+<tr>
+<th>Modified d100</th>
+<th>Injury</th>
+<th>Effect</th>
+<th>Treatment and Recovery</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1–10</td>
+<td><strong>Cold Shock</strong></td>
+<td>The sudden chill steals your breath. You cannot take Reactions until the start of your next turn.</td>
+<td><strong>Minor</strong><br />DC 10 Wisdom (Medicine)<br />1 short rest after successful treatment<br />Magic: 1st-level spell slot</td>
+</tr>
+<tr>
+<td>11–20</td>
+<td><strong>Numb Fingers</strong></td>
+<td>Drop one held object and have Disadvantage on the next attack roll you make with your hands before the end of your next turn.</td>
+<td><strong>Minor</strong><br />DC 10 Wisdom (Medicine)<br />1 long rest after successful treatment<br />Magic: 1st-level spell slot</td>
+</tr>
+<tr>
+<td>21–30</td>
+<td><strong>Frost-Nipped</strong></td>
+<td>Painful numbness slows you. Your Speed is reduced by 5 feet until this injury recovers.</td>
+<td><strong>Moderate</strong><br />DC 11 Wisdom (Medicine)<br />1d4 long rests after successful treatment<br />Magic: 2nd-level spell slot</td>
+</tr>
+<tr>
+<td>31–40</td>
+<td><strong>Frozen Joint</strong></td>
+<td>A joint locks in rime. Your Speed is halved, or one arm cannot wield a two-handed weapon, until this injury recovers.</td>
+<td><strong>Moderate</strong><br />DC 12 Wisdom (Medicine)<br />1d4 long rests after successful treatment<br />Magic: 2nd-level spell slot</td>
+</tr>
+<tr>
+<td>41–50</td>
+<td><strong>Deep Frostbite</strong></td>
+<td>A plausible extremity turns waxy and senseless. You have Disadvantage on D20 Tests that require it until this injury recovers.</td>
+<td><strong>Serious</strong><br />DC 13 Wisdom (Medicine)<br />2d4 long rests after successful treatment<br />Magic: 3rd-level spell slot</td>
+</tr>
+<tr>
+<td>51–60</td>
+<td><strong>Hypothermic Collapse</strong></td>
+<td>Gain 1 Exhaustion level and fall Prone. The Exhaustion cannot be removed until this injury receives treatment.</td>
+<td><strong>Serious</strong><br />DC 14 Wisdom (Medicine)<br />2d4 long rests after successful treatment<br />Magic: 3rd-level spell slot</td>
+</tr>
+<tr>
+<td>61–70</td>
+<td><strong>Frozen Eye</strong></td>
+<td>One eye freezes opaque. You have Disadvantage on Wisdom (Perception) checks that rely on sight until the eye is restored.</td>
+<td><strong>Major</strong><br />DC 15 Wisdom (Medicine)<br />3d4 long rests after successful treatment<br />Magic: 4th-level spell slot<br />Natural recovery closes the wound but does not restore the eye; Regenerate or equivalent magic does.</td>
+</tr>
+<tr>
+<td>71–80</td>
+<td><strong>Blackened Extremity</strong></td>
+<td>One hand or foot dies from frostbite. It is unusable and must be removed or restored by magic.</td>
+<td><strong>Major</strong><br />DC 16 Wisdom (Medicine)<br />3d4 long rests after successful treatment<br />Magic: 4th-level spell slot<br />Treatment prevents the damage from spreading; Regenerate or equivalent magic restores the extremity.</td>
+</tr>
+<tr>
+<td>81–90</td>
+<td><strong>Ice in the Lungs</strong></td>
+<td>You cannot Dash, have Disadvantage on Constitution saving throws, and gain 2 Exhaustion levels.</td>
+<td><strong>Severe</strong><br />DC 18 Wisdom (Medicine)<br />4d4 long rests after successful treatment<br />Magic: 5th-level spell slot</td>
+</tr>
+<tr>
+<td>91–100</td>
+<td><strong>Frozen Solid</strong></td>
+<td>You have the Petrified condition, except you are ice rather than stone, until carefully thawed or magically healed. Fire damage used to thaw you deals double damage.</td>
+<td><strong>Severe</strong><br />DC 20 Wisdom (Medicine)<br />4d6 long rests after successful treatment<br />Magic: 5th-level spell slot</td>
+</tr>
+<tr>
+<td>101–110</td>
+<td><strong>Brittle Fracture</strong></td>
+<td>Frozen flesh shatters from a plausible limb. You drop to 0 Hit Points, gain Bleeding 4 when thawed, and lose that limb permanently.</td>
+<td><strong>Mortal</strong><br />DC 22 Wisdom (Medicine)<br />6d6 long rests after successful treatment<br />Magic: 6th-level spell slot<br />Treatment can stabilize the wound; Regenerate or equivalent magic restores the limb.</td>
+</tr>
+<tr>
+<td>111–115</td>
+<td><strong>Frozen Heart</strong></td>
+<td>You drop to 0 Hit Points and are Unconscious. You die at the end of the current turn unless Fate or qualifying magic intervenes.</td>
+<td><strong>Catastrophic</strong><br />DC 25 Wisdom (Medicine)<br />8d6 long rests after successful treatment<br />Magic: 7th-level spell slot</td>
+</tr>
+<tr>
+<td>116+</td>
+<td><strong>Icebound Corpse</strong></td>
+<td>You freeze through in an instant and die. Your intact frozen body can be used by magic that restores life.</td>
+<td><strong>Fatal</strong><br />No mundane treatment<br />The creature is dead<br />Magic: Fate or magic that restores life</td>
+</tr>
+</tbody></table>
+5:["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Critical Injury Tables"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/critical-injuries/bludgeoning-critical-injuries","children":"Bludgeoning Critical Injuries"}],["$","span",null,{"className":"current-rule","children":"Cold Critical Injuries"}],["$","$L2",null,{"href":"/rules/critical-injuries/fire-critical-injuries","children":"Fire Critical Injuries"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Critical Injury Tables"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge grimdark","children":"Grimdark rule"}],false,false]}],["$","p",null,{"className":"kicker","children":"Critical Injury Tables"}],["$","h1",null,{"children":"Cold Critical Injuries"}],["$","p",null,{"className":"rule-deck","children":"Shock, frostbite, hypothermia, and flesh made brittle by supernatural cold."}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$10"}}],"$L11","$L12"]}]]}]
+11:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Grimdark 5e material:"}]," an unofficial modification or addition to the SRD 5.2.1 baseline."]}]}]
+12:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/critical-injuries/bludgeoning-critical-injuries","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Bludgeoning Critical Injuries"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/critical-injuries/fire-critical-injuries","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Fire Critical Injuries"," →"]}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Cold Critical Injuries · Grimdark 5e Rules"}],["$","meta","1",{"name":"description","content":"Shock, frostbite, hypothermia, and flesh made brittle by supernatural cold."}],["$","meta","2",{"property":"og:title","content":"Cold Critical Injuries · Grimdark 5e Rules"}],["$","meta","3",{"property":"og:description","content":"Shock, frostbite, hypothermia, and flesh made brittle by supernatural cold."}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Cold Critical Injuries · Grimdark 5e Rules"}],["$","meta","6",{"name":"twitter:description","content":"Shock, frostbite, hypothermia, and flesh made brittle by supernatural cold."}]]

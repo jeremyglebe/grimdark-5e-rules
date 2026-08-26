@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[22016,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/grimdark-5e-rules/_next/static/chunks/13h-0fd.p-1ga.js","/grimdark-5e-rules/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T1135,<p>Lacerations, severed tendons, dismemberment, and opened vital structures.</p>
+<table>
+<thead>
+<tr>
+<th>Modified d100</th>
+<th>Injury</th>
+<th>Effect</th>
+<th>Treatment and Recovery</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1–10</td>
+<td><strong>Sharp Nick</strong></td>
+<td>A quick cut begins to run. Gain Bleeding 1.</td>
+<td><strong>Minor</strong><br />DC 10 Wisdom (Medicine)<br />1 short rest after successful treatment<br />Magic: 1st-level spell slot</td>
+</tr>
+<tr>
+<td>11–20</td>
+<td><strong>Cut Across the Guard</strong></td>
+<td>You cannot take Reactions until the start of your next turn.</td>
+<td><strong>Minor</strong><br />DC 10 Wisdom (Medicine)<br />1 long rest after successful treatment<br />Magic: 1st-level spell slot</td>
+</tr>
+<tr>
+<td>21–30</td>
+<td><strong>Deep Gash</strong></td>
+<td>Gain Bleeding 1 and have Disadvantage on your next attack roll.</td>
+<td><strong>Moderate</strong><br />DC 11 Wisdom (Medicine)<br />1d4 long rests after successful treatment<br />Magic: 2nd-level spell slot</td>
+</tr>
+<tr>
+<td>31–40</td>
+<td><strong>Cut Tendon</strong></td>
+<td>Your Speed is reduced by 10 feet, or one hand cannot hold an object, until this injury recovers.</td>
+<td><strong>Moderate</strong><br />DC 12 Wisdom (Medicine)<br />1d4 long rests after successful treatment<br />Magic: 2nd-level spell slot</td>
+</tr>
+<tr>
+<td>41–50</td>
+<td><strong>Opened Hand</strong></td>
+<td>Drop one held object. One hand is unusable and you gain Bleeding 2 until this injury receives treatment.</td>
+<td><strong>Serious</strong><br />DC 13 Wisdom (Medicine)<br />2d4 long rests after successful treatment<br />Magic: 3rd-level spell slot</td>
+</tr>
+<tr>
+<td>51–60</td>
+<td><strong>Hamstrung</strong></td>
+<td>You fall Prone. Your Speed is halved and standing costs all your movement until this injury recovers.</td>
+<td><strong>Serious</strong><br />DC 14 Wisdom (Medicine)<br />2d4 long rests after successful treatment<br />Magic: 3rd-level spell slot</td>
+</tr>
+<tr>
+<td>61–70</td>
+<td><strong>Exposed Ribs</strong></td>
+<td>Gain Bleeding 2, and you have Disadvantage on Constitution saving throws until this injury recovers.</td>
+<td><strong>Major</strong><br />DC 15 Wisdom (Medicine)<br />3d4 long rests after successful treatment<br />Magic: 4th-level spell slot</td>
+</tr>
+<tr>
+<td>71–80</td>
+<td><strong>Severed Fingers</strong></td>
+<td>One hand loses enough digits to become unusable. Gain Bleeding 2.</td>
+<td><strong>Major</strong><br />DC 16 Wisdom (Medicine)<br />3d4 long rests after successful treatment<br />Magic: 4th-level spell slot<br />Treatment can stabilize the wound; Regenerate or equivalent magic restores the fingers.</td>
+</tr>
+<tr>
+<td>81–90</td>
+<td><strong>Opened Abdomen</strong></td>
+<td>Gain Bleeding 3 and 1 Exhaustion level. Taking the Dash action increases Bleeding by 1.</td>
+<td><strong>Severe</strong><br />DC 18 Wisdom (Medicine)<br />4d4 long rests after successful treatment<br />Magic: 5th-level spell slot</td>
+</tr>
+<tr>
+<td>91–100</td>
+<td><strong>Severed Limb</strong></td>
+<td>A plausible limb is severed. Its loss is permanent and you gain Bleeding 4.</td>
+<td><strong>Severe</strong><br />DC 20 Wisdom (Medicine)<br />4d6 long rests after successful treatment<br />Magic: 5th-level spell slot<br />Treatment can stabilize the wound; Regenerate or equivalent magic restores the limb.</td>
+</tr>
+<tr>
+<td>101–110</td>
+<td><strong>Opened Throat</strong></td>
+<td>You drop to 0 Hit Points, cannot speak or breathe, and gain Bleeding 4. You die at the end of your next turn unless treated or magically healed.</td>
+<td><strong>Mortal</strong><br />DC 22 Wisdom (Medicine)<br />6d6 long rests after successful treatment<br />Magic: 6th-level spell slot</td>
+</tr>
+<tr>
+<td>111–115</td>
+<td><strong>Nearly Bisected</strong></td>
+<td>You drop to 0 Hit Points and die at the end of the current turn unless Fate or qualifying magic intervenes.</td>
+<td><strong>Catastrophic</strong><br />DC 25 Wisdom (Medicine)<br />8d6 long rests after successful treatment<br />Magic: 7th-level spell slot</td>
+</tr>
+<tr>
+<td>116+</td>
+<td><strong>Decapitated</strong></td>
+<td>Your head is severed and you die. Restoring you requires magic capable of repairing or replacing the body.</td>
+<td><strong>Fatal</strong><br />No mundane treatment<br />The creature is dead<br />Magic: Fate or magic that restores life</td>
+</tr>
+</tbody></table>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":[["$","$L2",null,{"href":"/rules","children":"← Complete index"}],["$","p",null,{"className":"sidebar-label","children":"Critical Injury Tables"}],["$","nav",null,{"aria-label":"Nearby rules","children":[["$","$L2",null,{"href":"/rules/critical-injuries/radiant-critical-injuries","children":"Radiant Critical Injuries"}],["$","span",null,{"className":"current-rule","children":"Slashing Critical Injuries"}],["$","$L2",null,{"href":"/rules/critical-injuries/thunder-critical-injuries","children":"Thunder Critical Injuries"}]]}]]}],["$","main",null,{"className":"article-main","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/rules","children":"Rules"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Critical Injury Tables"}]]}],["$","header",null,{"className":"rule-heading","children":[["$","div",null,{"className":"rule-badges","children":[["$","span",null,{"className":"rule-badge grimdark","children":"Grimdark rule"}],false,false]}],["$","p",null,{"className":"kicker","children":"Critical Injury Tables"}],["$","h1",null,{"children":"Slashing Critical Injuries"}],["$","p",null,{"className":"rule-deck","children":"Lacerations, severed tendons, dismemberment, and opened vital structures."}]]}],false,false,["$","article",null,{"className":"rule-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FRjcLkFCfUHnlX2lKTlAe"}
+4:["$","aside",null,{"className":"source-note","children":["$","p",null,{"children":[["$","strong",null,{"children":"Grimdark 5e material:"}]," an unofficial modification or addition to the SRD 5.2.1 baseline."]}]}]
+5:["$","nav",null,{"className":"article-pager","aria-label":"Adjacent rules","children":[["$","$L2",null,{"href":"/rules/critical-injuries/radiant-critical-injuries","children":[["$","small",null,{"children":"Previous"}],["$","strong",null,{"children":["← ","Radiant Critical Injuries"]}]]}],["$","$L2",null,{"className":"next","href":"/rules/critical-injuries/thunder-critical-injuries","children":[["$","small",null,{"children":"Next"}],["$","strong",null,{"children":["Thunder Critical Injuries"," →"]}]]}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
